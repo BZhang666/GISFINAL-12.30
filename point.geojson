@@ -1,0 +1,4774 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4847841,53.3514114 ]
+    },
+    "properties": {
+    "location":"Centenary Works, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":22211,
+    "Average Tonnage Received (2013-16)":26979.75,
+    "Difference":4768.75,
+    "License Number":"80771",
+    "Operator":"F. J. Church & Sons Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0542413,51.310031 ]
+    },
+    "properties": {
+    "location":"Cherry Lodge Golf Club, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":356550,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":89087,
+    "Difference":89087,
+    "License Number":"102721",
+    "Operator":"Woodland Environmental Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.113596,51.336891 ]
+    },
+    "properties": {
+    "location":"Day Aggregates Purley Depot, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":249999,
+    "Tonnage Received 2016":118650,
+    "Average Tonnage Received (2013-16)":160262.82,
+    "Difference":41612.82,
+    "License Number":"103455",
+    "Operator":"Day Group Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0990614,51.3470601 ]
+    },
+    "properties": {
+    "location":"Purley Oaks Depot, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":24700,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":6154.49,
+    "Difference":6154.49,
+    "License Number":"83306",
+    "Operator":"Kier Highways Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1192452,51.3554689 ]
+    },
+    "properties": {
+    "location":"Able Waste Services Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":32688.78,
+    "Average Tonnage Received (2013-16)":12562.99,
+    "Difference":-20125.79,
+    "License Number":"104808",
+    "Operator":"Able Waste Services Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0312539,51.358673 ]
+    },
+    "properties": {
+    "location":"Sam Smith, Peartree Fm, Addington, Cr0, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":37500,
+    "Tonnage Received 2016":59282.3,
+    "Average Tonnage Received (2013-16)":45121.72,
+    "Difference":-14160.58,
+    "License Number":"83171",
+    "Operator":"Mr Samuel Smith",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.134468,51.37285 ]
+    },
+    "properties": {
+    "location":"H C L House, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":100000,
+    "Tonnage Received 2016":9566,
+    "Average Tonnage Received (2013-16)":2512.75,
+    "Difference":-7053.25,
+    "License Number":"402173",
+    "Operator":"Hydro Cleansing Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.290525,51.372897 ]
+    },
+    "properties": {
+    "location":"Genuine Solutions Group Limited, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":234.69,
+    "Average Tonnage Received (2013-16)":732.51,
+    "Difference":497.82,
+    "License Number":"104886",
+    "Operator":"Genuine Solutions Group Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.315194,51.37365 ]
+    },
+    "properties": {
+    "location":"Chessington Equestrian Centre, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":99999,
+    "Tonnage Received 2016":14450,
+    "Average Tonnage Received (2013-16)":20060,
+    "Difference":5610,
+    "License Number":"400892",
+    "Operator":"B L Penwarden Haulage & Demolition Contractors Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1114783,51.3762456 ]
+    },
+    "properties": {
+    "location":"Stubbs Mead Depot, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":13849.72,
+    "Difference":13849.72,
+    "License Number":"100651",
+    "Operator":"Veolia E S Cleanaway ( U K ) Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1146964,51.3774419 ]
+    },
+    "properties": {
+    "location":"Factory Lane Special Waste Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":200000,
+    "Tonnage Received 2016":19736,
+    "Average Tonnage Received (2013-16)":16400.96,
+    "Difference":-3335.04,
+    "License Number":"83163",
+    "Operator":"Veolia E S ( U K) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2073165,51.3781054 ]
+    },
+    "properties": {
+    "location":"Kimpton Park Way H R R C, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":13912.36,
+    "Average Tonnage Received (2013-16)":12963.74,
+    "Difference":-948.62,
+    "License Number":"83617",
+    "Operator":"Veolia E S ( U K) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1158733,51.3784093 ]
+    },
+    "properties": {
+    "location":"56-58 Factory Lane, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":14255.21,
+    "Average Tonnage Received (2013-16)":5621.29,
+    "Difference":-8633.92,
+    "License Number":"402297",
+    "Operator":"Blu-3 ( U K) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1529652,51.3798699 ]
+    },
+    "properties": {
+    "location":"Beddington Farmlands Landfill Site, London",
+    "Site Type":"Disposal",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":990000,
+    "Tonnage Received 2016":297674.49,
+    "Average Tonnage Received (2013-16)":300466.68,
+    "Difference":2792.19,
+    "License Number":"VP3039SW",
+    "Operator":"Viridor Waste Management Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3157724,51.3833525 ]
+    },
+    "properties": {
+    "location":"Greenham Triangle, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":47700,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":12397.5,
+    "Difference":12397.5,
+    "License Number":"400621",
+    "Operator":"Lyons Francis",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1295744,51.3837341 ]
+    },
+    "properties": {
+    "location":"Waldens Depot, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":6.74,
+    "Average Tonnage Received (2013-16)":1.68,
+    "Difference":-5.06,
+    "License Number":"19568",
+    "Operator":"Syd Bishop & Sons ( Demolition ) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2277363,51.3850737 ]
+    },
+    "properties": {
+    "location":"Garth Road Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":14593.99,
+    "Average Tonnage Received (2013-16)":12245.04,
+    "Difference":-2348.95,
+    "License Number":"100632",
+    "Operator":"Veolia E S ( U K ) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1325216,51.3854579 ]
+    },
+    "properties": {
+    "location":"Raven Recycling, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":9601.21,
+    "Average Tonnage Received (2013-16)":5005.24,
+    "Difference":-4595.97,
+    "License Number":"400696",
+    "Operator":"Raven Waste Paper Company Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1287372,51.3875968 ]
+    },
+    "properties": {
+    "location":"Therapia Lane, Croydon, Cr0, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":21423.04,
+    "Difference":21423.04,
+    "License Number":"83314",
+    "Operator":"European Metal Recycling Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140619,51.387847 ]
+    },
+    "properties": {
+    "location":"777 Recycling Centre Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":372600,
+    "Tonnage Received 2016":28040.69,
+    "Average Tonnage Received (2013-16)":39768.33,
+    "Difference":11727.64,
+    "License Number":"83473",
+    "Operator":"777 Recycling Centre Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1621521,51.3898055 ]
+    },
+    "properties": {
+    "location":"B Nebbett & Son Limited, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":109500,
+    "Tonnage Received 2016":64374.78,
+    "Average Tonnage Received (2013-16)":52502.04,
+    "Difference":-11872.74,
+    "License Number":"83476",
+    "Operator":"European Metal Recycling Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1674833,51.3921467 ]
+    },
+    "properties": {
+    "location":"George Killoughery Limited ( Mitcham), London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":33359.93,
+    "Average Tonnage Received (2013-16)":37430.36,
+    "Difference":4070.43,
+    "License Number":"103821",
+    "Operator":"George Killoughery Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.160181,51.393622 ]
+    },
+    "properties": {
+    "location":"Bournewood Inert Landfill Site, London",
+    "Site Type":"Disposal",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":240000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":51997.65,
+    "Difference":51997.65,
+    "License Number":"210058",
+    "Operator":"Bournewood Sand And Gravel Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.108963,51.395062 ]
+    },
+    "properties": {
+    "location":"Peter Norris ( Haulage) Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":71000,
+    "Tonnage Received 2016":39962.37,
+    "Average Tonnage Received (2013-16)":47371.96,
+    "Difference":7409.59,
+    "License Number":"10014",
+    "Operator":"Peter Norris ( Haulage ) Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.167028,51.396072 ]
+    },
+    "properties": {
+    "location":"Maguire Skips, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":29717.79,
+    "Average Tonnage Received (2013-16)":26808.62,
+    "Difference":-2909.17,
+    "License Number":"102215",
+    "Operator":"Maguire Skips Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0353309,51.398888 ]
+    },
+    "properties": {
+    "location":"Bromley Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":15433.52,
+    "Average Tonnage Received (2013-16)":16789.21,
+    "Difference":1355.69,
+    "License Number":"83528",
+    "Operator":"Veolia E S ( U K ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.035308,51.398911 ]
+    },
+    "properties": {
+    "location":"Waldo Road Waste Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":187200,
+    "Tonnage Received 2016":128972.86,
+    "Average Tonnage Received (2013-16)":127924.09,
+    "Difference":-1048.77,
+    "License Number":"83236",
+    "Operator":"Veolia E S ( U K ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1754459,51.4010025 ]
+    },
+    "properties": {
+    "location":"Mitcham Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":275000,
+    "Tonnage Received 2016":190320.16,
+    "Average Tonnage Received (2013-16)":253336.03,
+    "Difference":63015.87,
+    "License Number":"83184",
+    "Operator":"Shukco 347 Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.166709,51.402869 ]
+    },
+    "properties": {
+    "location":"Mitcham Site, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":740.86,
+    "Average Tonnage Received (2013-16)":185.22,
+    "Difference":-555.64,
+    "License Number":"402626",
+    "Operator":"O C S Group U K Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2902686,51.4029807 ]
+    },
+    "properties": {
+    "location":"Kingston Waste Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":200500,
+    "Tonnage Received 2016":66473.17,
+    "Average Tonnage Received (2013-16)":66030.08,
+    "Difference":-443.09,
+    "License Number":"83181",
+    "Operator":"Viridor Waste Management Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2905057,51.4033712 ]
+    },
+    "properties": {
+    "location":"Viridor Recycling Centre, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":240000,
+    "Tonnage Received 2016":78781.3,
+    "Average Tonnage Received (2013-16)":91923.38,
+    "Difference":13142.08,
+    "License Number":"83441",
+    "Operator":"Viridor Waste ( Thames ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0473034,51.4047636 ]
+    },
+    "properties": {
+    "location":"Churchfields Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":21178.67,
+    "Average Tonnage Received (2013-16)":18705.11,
+    "Difference":-2473.56,
+    "License Number":"83235",
+    "Operator":"Veolia E S ( U K ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.119407,51.417915 ]
+    },
+    "properties": {
+    "location":"Foots Cray Depot Refuse & Recycling Centre, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":12513.4,
+    "Average Tonnage Received (2013-16)":11627.91,
+    "Difference":-885.49,
+    "License Number":"19564",
+    "Operator":"Bexley London Borough Council",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2041508,51.4199627 ]
+    },
+    "properties": {
+    "location":"Henry Woods Waste Management Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":8150,
+    "Average Tonnage Received (2013-16)":11969,
+    "Difference":3819,
+    "License Number":"103698",
+    "Operator":"Henry Woods Waste Management Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0360283,51.4240302 ]
+    },
+    "properties": {
+    "location":"Sydenham Scrap Metals Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":985,
+    "Average Tonnage Received (2013-16)":288.25,
+    "Difference":-696.75,
+    "License Number":"102103",
+    "Operator":"Sydenham Scrap Metals Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0466444,51.4257139 ]
+    },
+    "properties": {
+    "location":"Sydenham Road, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":19937.93,
+    "Average Tonnage Received (2013-16)":24493.81,
+    "Difference":4555.88,
+    "License Number":"102495",
+    "Operator":"H Sivyer ( Transport ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0338728,51.4266812 ]
+    },
+    "properties": {
+    "location":"Latham Recycling Centre Ltd, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":110000,
+    "Tonnage Received 2016":36330.74,
+    "Average Tonnage Received (2013-16)":37542.66,
+    "Difference":1211.92,
+    "License Number":"83321",
+    "Operator":"Lathams Recycling Centre Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0988524,51.4293837 ]
+    },
+    "properties": {
+    "location":"West Norwood Car Breakers, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":138,
+    "Average Tonnage Received (2013-16)":91,
+    "Difference":-47,
+    "License Number":"102052",
+    "Operator":"Kiernan Bill",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1902386,51.4309629 ]
+    },
+    "properties": {
+    "location":"Weir Road Waste Transfer Station, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":45415.04,
+    "Average Tonnage Received (2013-16)":31601.59,
+    "Difference":-13813.45,
+    "License Number":"400311",
+    "Operator":"Maguire Skips Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0940543,51.4317475 ]
+    },
+    "properties": {
+    "location":"Vale Street Civic Amenity Centre, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":2309.45,
+    "Average Tonnage Received (2013-16)":2198.32,
+    "Difference":-111.13,
+    "License Number":"83253",
+    "Operator":"London Borough of Lambeth",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0935479,51.4327485 ]
+    },
+    "properties": {
+    "location":"Mcgovern House, London",
+    "Site Type":"Fuel preparation and MBT",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":4,
+    "Average Tonnage Received (2013-16)":1,
+    "Difference":-3,
+    "License Number":"403204",
+    "Operator":"The Wet Waste Company Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1902903,51.4383799 ]
+    },
+    "properties": {
+    "location":"L M D Waste Management Limited, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":14503,
+    "Average Tonnage Received (2013-16)":4548.75,
+    "Difference":-9954.25,
+    "License Number":"402208",
+    "Operator":"L M D Waste Management Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1898725,51.4384748 ]
+    },
+    "properties": {
+    "location":"77 Weir Road, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":43150.8,
+    "Average Tonnage Received (2013-16)":28879.72,
+    "Difference":-14271.08,
+    "License Number":"400856",
+    "Operator":"N J B Recycling Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5363554,51.4412148 ]
+    },
+    "properties": {
+    "location":"Goldstar Commercials, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":60.05,
+    "Average Tonnage Received (2013-16)":122.46,
+    "Difference":62.41,
+    "License Number":"100789",
+    "Operator":"Metal Recovery Solutions Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2434592,51.4417458 ]
+    },
+    "properties": {
+    "location":"Richmond Park Golf Club, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":142500,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":24140,
+    "Difference":24140,
+    "License Number":"104458",
+    "Operator":"Oakland Golf And Leisure Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.437216,51.453461 ]
+    },
+    "properties": {
+    "location":"Plot 39 Bedfont Tranding Estate, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":23739.62,
+    "Difference":23739.62,
+    "License Number":"104079",
+    "Operator":"Fowles Crushed Concrete Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5588665,51.4566933 ]
+    },
+    "properties": {
+    "location":"Fowles Crushed Concrete Limited, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":182500,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":31815.18,
+    "Difference":31815.18,
+    "License Number":"80741",
+    "Operator":"Fowles Crushed Concrete Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1044878,51.4573494 ]
+    },
+    "properties": {
+    "location":"Barking Materials Recycling Facility, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":47406.45,
+    "Average Tonnage Received (2013-16)":46485.68,
+    "Difference":-920.77,
+    "License Number":"101756",
+    "Operator":"Suez Recycling And Recovery U K Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.201906,51.4574371 ]
+    },
+    "properties": {
+    "location":"Thames Road Depot, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":44466.23,
+    "Average Tonnage Received (2013-16)":43455.68,
+    "Difference":-1010.55,
+    "License Number":"19563",
+    "Operator":"Bexley London Borough Council",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1939774,51.4589808 ]
+    },
+    "properties": {
+    "location":"Anchor Bay Commercial Haulage Waste Treatment Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":32443.48,
+    "Average Tonnage Received (2013-16)":31544.27,
+    "Difference":-899.21,
+    "License Number":"104136",
+    "Operator":"Mr George Dugdale, Mr Mark Dugdale And Mr Steven Dugdale",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.396945,51.460257 ]
+    },
+    "properties": {
+    "location":"St Albans Farm Recycling Facility ( Ron Smith), London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":221416,
+    "Tonnage Received 2016":71202.37,
+    "Average Tonnage Received (2013-16)":92918.25,
+    "Difference":21715.88,
+    "License Number":"80063",
+    "Operator":"Ron Smith ( Recycling ) Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3414585,51.4613118 ]
+    },
+    "properties": {
+    "location":"Mogden Sewage Treatment Works, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":250000,
+    "Tonnage Received 2016":99979.33,
+    "Average Tonnage Received (2013-16)":48691.82,
+    "Difference":-51287.51,
+    "License Number":"100679",
+    "Operator":"Thames Water Utilities Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.191276,51.4625548 ]
+    },
+    "properties": {
+    "location":"Wandsworth Transfer Station, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":20731.3,
+    "Average Tonnage Received (2013-16)":20716.18,
+    "Difference":-15.12,
+    "License Number":"83393",
+    "Operator":"Shukco 347 Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1895057,51.4628999 ]
+    },
+    "properties": {
+    "location":"W Riverside S W T S , Smugglers Way, Sw18, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":893637,
+    "Tonnage Received 2016":219846.42,
+    "Average Tonnage Received (2013-16)":219853.66,
+    "Difference":7.24,
+    "License Number":"83283",
+    "Operator":"Cory Environmental Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4099045,51.4634037 ]
+    },
+    "properties": {
+    "location":"Space Waye Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":82000,
+    "Tonnage Received 2016":16179.58,
+    "Average Tonnage Received (2013-16)":16128.71,
+    "Difference":-50.87,
+    "License Number":"80527",
+    "Operator":"Hounslow London Borough Council",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10412,51.464887 ]
+    },
+    "properties": {
+    "location":"Belinda Road ( Brixton) Waste Transfer Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":35838,
+    "Average Tonnage Received (2013-16)":35998.79,
+    "Difference":160.79,
+    "License Number":"83255",
+    "Operator":"Powerday Plc",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1029496,51.4656441 ]
+    },
+    "properties": {
+    "location":"Veolia Inert Soils Coldharbour Lane, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":400000,
+    "Tonnage Received 2016":112673.31,
+    "Average Tonnage Received (2013-16)":113168.32,
+    "Difference":495.01,
+    "License Number":"80768",
+    "Operator":"Veolia E S Landfill Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.155939,51.4702998 ]
+    },
+    "properties": {
+    "location":"Metropolitan Waste Management Ltd, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":262600,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":47825.18,
+    "Difference":47825.18,
+    "License Number":"83228",
+    "Operator":"Metropolitan Waste Management Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1387635,51.4719557 ]
+    },
+    "properties": {
+    "location":"European Metal Recycling, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":276960,
+    "Tonnage Received 2016":110988.38,
+    "Average Tonnage Received (2013-16)":108469.1,
+    "Difference":-2519.28,
+    "License Number":"83229",
+    "Operator":"European Metal Recycling Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.144061,51.47381 ]
+    },
+    "properties": {
+    "location":"Day Aggregates Stewarts Lane Depot, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":35000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":5923.1,
+    "Difference":5923.1,
+    "License Number":"103456",
+    "Operator":"Day Group Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.274626,51.4752831 ]
+    },
+    "properties": {
+    "location":"Townmead Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":17776.19,
+    "Average Tonnage Received (2013-16)":19371.66,
+    "Difference":1595.47,
+    "License Number":"83209",
+    "Operator":"Richmond Upon Thames London Borough Council",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1908761,51.4779448 ]
+    },
+    "properties": {
+    "location":"Anchor Bay Wharf, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":723,
+    "Difference":723,
+    "License Number":"103948",
+    "Operator":"Erith Remediation Technologies Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.21405,51.4779536 ]
+    },
+    "properties": {
+    "location":"M & R Building & Landscaping Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":5850.27,
+    "Average Tonnage Received (2013-16)":1537.42,
+    "Difference":-4312.85,
+    "License Number":"402861",
+    "Operator":"M & R Building & Landscaping Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0173921,51.4783857 ]
+    },
+    "properties": {
+    "location":"Toulouse Plant Hire Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":75445.66,
+    "Average Tonnage Received (2013-16)":72303.39,
+    "Difference":-3142.27,
+    "License Number":"83248",
+    "Operator":"Toulouse Plant Hire Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1414236,51.4799435 ]
+    },
+    "properties": {
+    "location":"Northern Line Extension Project, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":249999,
+    "Tonnage Received 2016":67343,
+    "Average Tonnage Received (2013-16)":16835.75,
+    "Difference":-50507.25,
+    "License Number":"403036",
+    "Operator":"Laing O Rourke Infrastructure Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.212142,51.480778 ]
+    },
+    "properties": {
+    "location":"Scrapco Metal Recycling Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":26845.9,
+    "Average Tonnage Received (2013-16)":30668.2,
+    "Difference":3822.3,
+    "License Number":"101450",
+    "Operator":"Scrapco Metal Recycling Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0580691,51.4819672 ]
+    },
+    "properties": {
+    "location":"Bulk Waste Recycling Facility, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":730000,
+    "Tonnage Received 2016":198389.04,
+    "Average Tonnage Received (2013-16)":178517.68,
+    "Difference":-19871.36,
+    "License Number":"80689",
+    "Operator":"Londonenergy Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0576302,51.4820124 ]
+    },
+    "properties": {
+    "location":"Greenwich Intergrated Waste Management Facility, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":411000,
+    "Tonnage Received 2016":44183.91,
+    "Average Tonnage Received (2013-16)":56429.37,
+    "Difference":12245.46,
+    "License Number":"83498",
+    "Operator":"Veolia E S Cleanaway ( U K ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0461109,51.4823172 ]
+    },
+    "properties": {
+    "location":"C & G Demolition & Site Clearance Ltd, Mercury Way, Se14, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":42900,
+    "Tonnage Received 2016":31735.54,
+    "Average Tonnage Received (2013-16)":27963.3,
+    "Difference":-3772.24,
+    "License Number":"83257",
+    "Operator":"C & G Demolition & Site Clearance Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1411696,51.4824067 ]
+    },
+    "properties": {
+    "location":"Waste Transfer Station, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":100000,
+    "Tonnage Received 2016":67135.27,
+    "Average Tonnage Received (2013-16)":69012,
+    "Difference":1876.73,
+    "License Number":"80036",
+    "Operator":"Space Rubbish Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0463684,51.4824667 ]
+    },
+    "properties": {
+    "location":"Economic Skips Ltd, Mercury Way, Se14, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":135460,
+    "Tonnage Received 2016":44319.62,
+    "Average Tonnage Received (2013-16)":39969.52,
+    "Difference":-4350.1,
+    "License Number":"83258",
+    "Operator":"Economic Skips Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2233039,51.4828849 ]
+    },
+    "properties": {
+    "location":"Thames Wharf, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":68256,
+    "Average Tonnage Received (2013-16)":82501.5,
+    "Difference":14245.5,
+    "License Number":"100813",
+    "Operator":"Keltbray Environmental Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3935787,51.484399 ]
+    },
+    "properties": {
+    "location":"Cranford Lane T S, Heathrow, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":469.2,
+    "Average Tonnage Received (2013-16)":1036.54,
+    "Difference":567.34,
+    "License Number":"80042",
+    "Operator":"Heathrow Airport Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0508448,51.4850139 ]
+    },
+    "properties": {
+    "location":"Unit 1, Stockholm Road, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":49122.03,
+    "Average Tonnage Received (2013-16)":52327.34,
+    "Difference":3205.31,
+    "License Number":"104283",
+    "Operator":"R T S Waste Management Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0536855,51.4851485 ]
+    },
+    "properties": {
+    "location":"Ilderton Waste, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":49000,
+    "Tonnage Received 2016":17907,
+    "Average Tonnage Received (2013-16)":11065.21,
+    "Difference":-6841.79,
+    "License Number":"83475",
+    "Operator":"Ilderton Waste",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.045808,51.485202 ]
+    },
+    "properties": {
+    "location":"Lewisham Recycling & Waste Reception Centre, Landmann Way, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":5787.87,
+    "Average Tonnage Received (2013-16)":5421.13,
+    "Difference":-366.74,
+    "License Number":"83355",
+    "Operator":"London Borough of Lewisham",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.046045,51.485399 ]
+    },
+    "properties": {
+    "location":"SELCHP Energy Recovery Facility , London",
+    "Site Type":"Thermal treatment",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":488000,
+    "Tonnage Received 2016":444391.78,
+    "Average Tonnage Received (2013-16)":444453.34,
+    "Difference":61.56,
+    "License Number":"NP3738SY",
+    "Operator":"South East London Combined Heat and Power Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3101169,51.486073 ]
+    },
+    "properties": {
+    "location":"Mayer Parry, Brentford, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":67094.69,
+    "Average Tonnage Received (2013-16)":57493.58,
+    "Difference":-9601.11,
+    "License Number":"80370",
+    "Operator":"Mayer Parry Recycling Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3237026,51.4869409 ]
+    },
+    "properties": {
+    "location":"Brentford Service Centre, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":2887.79,
+    "Average Tonnage Received (2013-16)":2317.36,
+    "Difference":-570.43,
+    "License Number":"100044",
+    "Operator":"Rentokil Initial U K Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.458351,51.48952 ]
+    },
+    "properties": {
+    "location":"Sipson North East Inert Landfill, London",
+    "Site Type":"Disposal (inert)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":1869000,
+    "Tonnage Received 2016":343785,
+    "Average Tonnage Received (2013-16)":269657.25,
+    "Difference":-74127.75,
+    "License Number":"80594",
+    "Operator":"Henry Streeter ( Sand & Ballast ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3234824,51.489794 ]
+    },
+    "properties": {
+    "location":"Transport Avenue Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":270000,
+    "Tonnage Received 2016":246784.51,
+    "Average Tonnage Received (2013-16)":202873.93,
+    "Difference":-43910.58,
+    "License Number":"80077",
+    "Operator":"Suez Recycling And Recovery U K Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.323482,51.489794 ]
+    },
+    "properties": {
+    "location":"Brentford Aggregate Materials Recycling Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":600000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":222697.74,
+    "Difference":222697.74,
+    "License Number":"103193",
+    "Operator":"Day Group Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0591098,51.4901061 ]
+    },
+    "properties": {
+    "location":"32 Willow Lane, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":22550,
+    "Tonnage Received 2016":19146,
+    "Average Tonnage Received (2013-16)":15090.24,
+    "Difference":-4055.76,
+    "License Number":"83456",
+    "Operator":"L M D Waste Management Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0193142,51.4903768 ]
+    },
+    "properties": {
+    "location":"Penhall Road Recycling Centre, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":10310.86,
+    "Average Tonnage Received (2013-16)":4303.44,
+    "Difference":-6007.42,
+    "License Number":"401583",
+    "Operator":"Recycled Material Supplies Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3990284,51.4907578 ]
+    },
+    "properties": {
+    "location":"Heathrow Depot, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":300000,
+    "Tonnage Received 2016":211732.84,
+    "Average Tonnage Received (2013-16)":88496.39,
+    "Difference":-123236.45,
+    "License Number":"VP3630WE",
+    "Operator":"FM Conway Ltd ",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0238812,51.4914992 ]
+    },
+    "properties": {
+    "location":"Murphy's Wharf EPR/DP3490EU, London",
+    "Site Type":"Fuel preparation and MBT",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":649999,
+    "Tonnage Received 2016":261983,
+    "Average Tonnage Received (2013-16)":65495.75,
+    "Difference":-196487.25,
+    "License Number":"HP3732WG",
+    "Operator":"Day Group Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3022237,51.491621 ]
+    },
+    "properties": {
+    "location":"Quattro - Brentford, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":912000,
+    "Tonnage Received 2016":87452.5,
+    "Average Tonnage Received (2013-16)":84254.68,
+    "Difference":-3197.82,
+    "License Number":"80724",
+    "Operator":"Quattro ( U K ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0077143,51.4918533 ]
+    },
+    "properties": {
+    "location":"Assiciated Reclaimed Oils Bulking, Treatment and Transfer Facility EPR/WP3930UD, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":185640,
+    "Tonnage Received 2016":9179.01,
+    "Average Tonnage Received (2013-16)":8112.2,
+    "Difference":-1066.81,
+    "License Number":"WP3930UD",
+    "Operator":"Associated Reclaimed Oils Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0399116,51.49204 ]
+    },
+    "properties": {
+    "location":"Roll On Off Services Limited, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":8957.48,
+    "Average Tonnage Received (2013-16)":5955.39,
+    "Difference":-3002.09,
+    "License Number":"401396",
+    "Operator":"Roll On Off Services Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0201944,51.4929706 ]
+    },
+    "properties": {
+    "location":"Angerstein Wharf, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":83000,
+    "Tonnage Received 2016":13062.18,
+    "Average Tonnage Received (2013-16)":7272.83,
+    "Difference":-5789.35,
+    "License Number":"400933",
+    "Operator":"Aggregate Industries U K Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0324272,51.4938166 ]
+    },
+    "properties": {
+    "location":"Westminster Waste Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":56214.22,
+    "Average Tonnage Received (2013-16)":45394.24,
+    "Difference":-10819.98,
+    "License Number":"103772",
+    "Operator":"Westminster Waste Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3994911,51.4943331 ]
+    },
+    "properties": {
+    "location":"Airlinks Golf Club, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":248388,
+    "Tonnage Received 2016":72981.5,
+    "Average Tonnage Received (2013-16)":182493.88,
+    "Difference":109512.38,
+    "License Number":"400090",
+    "Operator":"Oakland Golf And Leisure Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1914236,51.4955473 ]
+    },
+    "properties": {
+    "location":"Rainham Landfill EPR/EP3136GK, London",
+    "Site Type":"Disposal (inert)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":1700000,
+    "Tonnage Received 2016":1216138.77,
+    "Average Tonnage Received (2013-16)":857940.64,
+    "Difference":-358198.13,
+    "License Number":"EP3136GK",
+    "Operator":"Veolia ES Landfill Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0104543,51.4964037 ]
+    },
+    "properties": {
+    "location":"80 River Road, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":22146.5,
+    "Average Tonnage Received (2013-16)":21012.6,
+    "Difference":-1133.9,
+    "License Number":"100076",
+    "Operator":"Clearun Recycling Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1060153,51.49642 ]
+    },
+    "properties": {
+    "location":"Greenwich Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":311000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":24863.33,
+    "Difference":24863.33,
+    "License Number":"83511",
+    "Operator":"Peter Norris ( Haulage) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0002726,51.4973583 ]
+    },
+    "properties": {
+    "location":"Victoria Deep Water Terminal, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":800000,
+    "Tonnage Received 2016":654538.07,
+    "Average Tonnage Received (2013-16)":661741.48,
+    "Difference":7203.41,
+    "License Number":"101878",
+    "Operator":"H Sivyer ( Transport) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0400182,51.5001537 ]
+    },
+    "properties": {
+    "location":"Jighand Limited, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":30000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":7950.98,
+    "Difference":7950.98,
+    "License Number":"401634",
+    "Operator":"Jighand Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0559217,51.5004129 ]
+    },
+    "properties": {
+    "location":"London City Metals, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":11782.2,
+    "Difference":11782.2,
+    "License Number":"103174",
+    "Operator":"London City Metals Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.389197,51.500823 ]
+    },
+    "properties": {
+    "location":"Proper Oils , London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":999999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":63.58,
+    "Difference":63.58,
+    "License Number":"VP3932CU",
+    "Operator":"Proper Energy Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0399174,51.5014007 ]
+    },
+    "properties": {
+    "location":"Mohawk Wharf Recycling Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":52640.5,
+    "Difference":52640.5,
+    "License Number":"101242",
+    "Operator":"Keltbray A W S Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0274811,51.501734 ]
+    },
+    "properties": {
+    "location":"Orion Support Services, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":150000,
+    "Tonnage Received 2016":41334.01,
+    "Average Tonnage Received (2013-16)":25040.28,
+    "Difference":-16293.73,
+    "License Number":"401256",
+    "Operator":"Orion Support Services Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0241709,51.5018182 ]
+    },
+    "properties": {
+    "location":"Recycled Material Supplies, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":230000,
+    "Tonnage Received 2016":180390,
+    "Average Tonnage Received (2013-16)":140286.62,
+    "Difference":-40103.38,
+    "License Number":"104575",
+    "Operator":"Recycled Material Supplies Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4206713,51.503046 ]
+    },
+    "properties": {
+    "location":"Hayes Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":375950,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":824.33,
+    "Difference":824.33,
+    "License Number":"80025",
+    "Operator":"Suez Recycling And Recovery Uk Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2261774,51.5030544 ]
+    },
+    "properties": {
+    "location":"B & P Scrap Co Ltd, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":4286.46,
+    "Difference":4286.46,
+    "License Number":"101699",
+    "Operator":"B & P Scrap Co Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1123051,51.5031653 ]
+    },
+    "properties": {
+    "location":"Upside Railway Yard, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":249999,
+    "Tonnage Received 2016":234930.04,
+    "Average Tonnage Received (2013-16)":83554.99,
+    "Difference":-151375.05,
+    "License Number":"400425",
+    "Operator":"G B Railfreight Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0376727,51.5031986 ]
+    },
+    "properties": {
+    "location":"Williams Environmental Management Ltd, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":5399.65,
+    "Average Tonnage Received (2013-16)":4804.92,
+    "Difference":-594.73,
+    "License Number":"WP3336SA",
+    "Operator":"Williams Environmental Management Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4748694,51.5037423 ]
+    },
+    "properties": {
+    "location":"Victoria Road Waste Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":734984,
+    "Tonnage Received 2016":186477.33,
+    "Average Tonnage Received (2013-16)":126864.39,
+    "Difference":-59612.94,
+    "License Number":"400834",
+    "Operator":"Suez Recycling And Recovery U K Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.155259,51.504595 ]
+    },
+    "properties": {
+    "location":"RIVERSIDE RESOURCE RECOVERY, London",
+    "Site Type":"Thermal treatment",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":785000,
+    "Tonnage Received 2016":738555.88,
+    "Average Tonnage Received (2013-16)":717689.36,
+    "Difference":-20866.52,
+    "License Number":"BK0825IU",
+    "Operator":"Riverside Resource Recovery Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0064129,51.5046597 ]
+    },
+    "properties": {
+    "location":"Creek Road Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":106250,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":2137.57,
+    "Difference":2137.57,
+    "License Number":"80098",
+    "Operator":"Euro Waste Barking Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0139307,51.5056229 ]
+    },
+    "properties": {
+    "location":"Docklands Wharf Transfer Station, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":414700,
+    "Tonnage Received 2016":66444.4,
+    "Average Tonnage Received (2013-16)":66379.61,
+    "Difference":-64.79,
+    "License Number":"80525",
+    "Operator":"Multi Services Kent Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1007404,51.505769 ]
+    },
+    "properties": {
+    "location":"Volker Highways Depot, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":7472,
+    "Difference":7472,
+    "License Number":"104047",
+    "Operator":"Volker Highways Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0858852,51.5063066 ]
+    },
+    "properties": {
+    "location":"Mr Andrew Davis, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":99999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":6938.3,
+    "Difference":6938.3,
+    "License Number":"102801",
+    "Operator":"Davis Andrew",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0125609,51.5065426 ]
+    },
+    "properties": {
+    "location":"Brewsters, Dock Road, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":275000,
+    "Tonnage Received 2016":89588,
+    "Average Tonnage Received (2013-16)":43346,
+    "Difference":-46242,
+    "License Number":"80781",
+    "Operator":"Brewsters Waste Management Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1277583,51.5073509 ]
+    },
+    "properties": {
+    "location":"X - Bert Haulage, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":382500,
+    "Tonnage Received 2016":103035,
+    "Average Tonnage Received (2013-16)":99779.75,
+    "Difference":-3255.25,
+    "License Number":"80588",
+    "Operator":"X - Bert Haulage Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0920615,51.5088886 ]
+    },
+    "properties": {
+    "location":"Tripcock Point , London",
+    "Site Type":"Disposal",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":250000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":107.96,
+    "Difference":107.96,
+    "License Number":"EP3135PE",
+    "Operator":"Tilfen Land Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1221424,51.5090981 ]
+    },
+    "properties": {
+    "location":"P M Highway Ltd, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":3800,
+    "Difference":3800,
+    "License Number":"104182",
+    "Operator":"P M Highway Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1791974,51.50951 ]
+    },
+    "properties": {
+    "location":"Rainham Recycling Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":7767.68,
+    "Difference":7767.68,
+    "License Number":"401196",
+    "Operator":"Brett Aggregates Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4609361,51.5100432 ]
+    },
+    "properties": {
+    "location":"Car Spares Of West Drayton Limited, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":8689.13,
+    "Difference":8689.13,
+    "License Number":"80537",
+    "Operator":"Car Spares Of West Drayton Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0916492,51.5104872 ]
+    },
+    "properties": {
+    "location":"Cory, Walbrook Wharf, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":171080,
+    "Tonnage Received 2016":54670.01,
+    "Average Tonnage Received (2013-16)":54438.4,
+    "Difference":-231.61,
+    "License Number":"80359",
+    "Operator":"Cory Environmental Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.067811,51.5104929 ]
+    },
+    "properties": {
+    "location":"Beckton S T W Combined Heat And Power Plant, London",
+    "Site Type":"Thermal treatment",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":999999,
+    "Tonnage Received 2016":311.8,
+    "Average Tonnage Received (2013-16)":77.95,
+    "Difference":-233.85,
+    "License Number":"400177",
+    "Operator":"Thames Water Utilities Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1723394,51.5117594 ]
+    },
+    "properties": {
+    "location":"Ecotech London Limited, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":3980.14,
+    "Average Tonnage Received (2013-16)":8298.94,
+    "Difference":4318.8,
+    "License Number":"80734",
+    "Operator":"Ecotech London Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1792315,51.5118726 ]
+    },
+    "properties": {
+    "location":"Rainham Eazystore Ltd, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0.26,
+    "Average Tonnage Received (2013-16)":0.16,
+    "Difference":-0.1,
+    "License Number":"102861",
+    "Operator":"Rainham Eazystore Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2237347,51.5123315 ]
+    },
+    "properties": {
+    "location":"Ingrebourne Links, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":600000,
+    "Tonnage Received 2016":105188,
+    "Average Tonnage Received (2013-16)":894346.25,
+    "Difference":789158.25,
+    "License Number":"101917",
+    "Operator":"Ingrebourne Valley Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2053388,51.5123813 ]
+    },
+    "properties": {
+    "location":"South Hall Farm, London",
+    "Site Type":"Disposal",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":260000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":4531.5,
+    "Difference":4531.5,
+    "License Number":"80524",
+    "Operator":"Havering Aggregates Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4440025,51.5132752 ]
+    },
+    "properties": {
+    "location":"Stockley Pines Golf Course (10th Hole), London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":23810,
+    "Tonnage Received 2016":30484,
+    "Average Tonnage Received (2013-16)":7621,
+    "Difference":-22863,
+    "License Number":"402093",
+    "Operator":"Premier Material Supplies Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.185954,51.514111 ]
+    },
+    "properties": {
+    "location":"Sams Yard, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":200.79,
+    "Average Tonnage Received (2013-16)":205.38,
+    "Difference":4.59,
+    "License Number":"103594",
+    "Operator":"Sams Yard Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3371981,51.5149242 ]
+    },
+    "properties": {
+    "location":"A & J Plumbing & Heating London Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":188,
+    "Average Tonnage Received (2013-16)":150.9,
+    "Difference":-37.1,
+    "License Number":"103439",
+    "Operator":"A & J Plumbing & Heating London Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.201221,51.515189 ]
+    },
+    "properties": {
+    "location":"D S Smith Recycling U K Ltd, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":100.13,
+    "Average Tonnage Received (2013-16)":1961.68,
+    "Difference":1861.55,
+    "License Number":"102933",
+    "Operator":"D S Smith Recycling U K Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0996253,51.5153053 ]
+    },
+    "properties": {
+    "location":"Cronimet ( London) Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":9193.07,
+    "Average Tonnage Received (2013-16)":7276.13,
+    "Difference":-1916.94,
+    "License Number":"103650",
+    "Operator":"Cronimet ( London ) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1046688,51.5157333 ]
+    },
+    "properties": {
+    "location":"Plasterzone, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":30000,
+    "Tonnage Received 2016":598.11,
+    "Average Tonnage Received (2013-16)":149.53,
+    "Difference":-448.58,
+    "License Number":"403490",
+    "Operator":"Plasterzone Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1454032,51.5157874 ]
+    },
+    "properties": {
+    "location":"Van Dalen Dagenham, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":150000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":60524.09,
+    "Difference":60524.09,
+    "License Number":"80620",
+    "Operator":"Van Dalen U K Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1042967,51.5161758 ]
+    },
+    "properties": {
+    "location":"Units 4-10 Atcost Road EPR/EP3494VG, London",
+    "Site Type":"Storage",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":16500,
+    "Tonnage Received 2016":4702.62,
+    "Average Tonnage Received (2013-16)":1175.66,
+    "Difference":-3526.96,
+    "License Number":"EP3531AP",
+    "Operator":"Wastecare Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1459763,51.5164844 ]
+    },
+    "properties": {
+    "location":"Manns Waste Management Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":42290,
+    "Average Tonnage Received (2013-16)":47722.6,
+    "Difference":5432.6,
+    "License Number":"101645",
+    "Operator":"Manns Waste Management Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1048771,51.5166578 ]
+    },
+    "properties": {
+    "location":"Wastecare - Barking, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":4612.2,
+    "Average Tonnage Received (2013-16)":5858.54,
+    "Difference":1246.34,
+    "License Number":"101134",
+    "Operator":"Wastecare Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26691,51.516929 ]
+    },
+    "properties": {
+    "location":"Stone Terminal, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":140000,
+    "Tonnage Received 2016":70959.33,
+    "Average Tonnage Received (2013-16)":59073.63,
+    "Difference":-11885.7,
+    "License Number":"80617",
+    "Operator":"Aggregate Industries U K Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1399565,51.5173801 ]
+    },
+    "properties": {
+    "location":"Thunderer Road, London",
+    "Site Type":"Fuel preparation and MBT",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":175000,
+    "Tonnage Received 2016":60231,
+    "Average Tonnage Received (2013-16)":15057.75,
+    "Difference":-45173.25,
+    "License Number":"403070",
+    "Operator":"Neptune Contract Services Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.194831,51.517732 ]
+    },
+    "properties": {
+    "location":"Rainham M R F, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":682440,
+    "Tonnage Received 2016":137027.87,
+    "Average Tonnage Received (2013-16)":98258.38,
+    "Difference":-38769.49,
+    "License Number":"80704",
+    "Operator":"Veolia E S Cleanaway ( U K ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0033647,51.5179564 ]
+    },
+    "properties": {
+    "location":"Mayer Parry, Bidder Street, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":150000,
+    "Tonnage Received 2016":108475.95,
+    "Average Tonnage Received (2013-16)":87544.19,
+    "Difference":-20931.76,
+    "License Number":"80125",
+    "Operator":"Mayer Parry Recycling Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.007245,51.518001 ]
+    },
+    "properties": {
+    "location":"Quick Skips London, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":4790.6,
+    "Average Tonnage Received (2013-16)":3137.51,
+    "Difference":-1653.09,
+    "License Number":"104011",
+    "Operator":"Quick Skips London Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.267434,51.518008 ]
+    },
+    "properties": {
+    "location":"Day Aggregates, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":649999,
+    "Tonnage Received 2016":44038,
+    "Average Tonnage Received (2013-16)":168756.75,
+    "Difference":124718.75,
+    "License Number":"83515",
+    "Operator":"Day Group Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1446672,51.5180189 ]
+    },
+    "properties": {
+    "location":"75 - 77 Chequers Lane, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":170256,
+    "Tonnage Received 2016":32082.6,
+    "Average Tonnage Received (2013-16)":27903.9,
+    "Difference":-4178.7,
+    "License Number":"80583",
+    "Operator":"R White Waste Management Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0043896,51.5182718 ]
+    },
+    "properties": {
+    "location":"I O D Skip Hire Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":350000,
+    "Tonnage Received 2016":53307.66,
+    "Average Tonnage Received (2013-16)":66056.37,
+    "Difference":12748.71,
+    "License Number":"80515",
+    "Operator":"IOD Skip Hire Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.118781,51.51862 ]
+    },
+    "properties": {
+    "location":"Barking Riverside Development Park, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":249999,
+    "Tonnage Received 2016":44254,
+    "Average Tonnage Received (2013-16)":43130,
+    "Difference":-1124,
+    "License Number":"101679",
+    "Operator":"Muckit Recycling Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0969118,51.5187407 ]
+    },
+    "properties": {
+    "location":"Mc Grath Bros ( Waste Control), London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":480000,
+    "Tonnage Received 2016":312023.2,
+    "Average Tonnage Received (2013-16)":246932.8,
+    "Difference":-65090.4,
+    "License Number":"80535",
+    "Operator":"Mc Grath Brothers ( Waste Control) Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.003418,51.5202216 ]
+    },
+    "properties": {
+    "location":"Remet Canning Town, Cody Road, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":64603.76,
+    "Average Tonnage Received (2013-16)":41712.47,
+    "Difference":-22891.29,
+    "License Number":"80115",
+    "Operator":"The Remet Company Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0024197,51.5203064 ]
+    },
+    "properties": {
+    "location":"Kilnbridge Construction Services Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":100310,
+    "Tonnage Received 2016":40453.81,
+    "Average Tonnage Received (2013-16)":46941.98,
+    "Difference":6488.17,
+    "License Number":"80625",
+    "Operator":"Kilnbridge Construction Services Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.006472,51.5223204 ]
+    },
+    "properties": {
+    "location":"Bywaters (1986) Limited, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":418285,
+    "Tonnage Received 2016":66625.27,
+    "Average Tonnage Received (2013-16)":70600.88,
+    "Difference":3975.61,
+    "License Number":"80147",
+    "Operator":"Bywaters (1986) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0757181,51.5228932 ]
+    },
+    "properties": {
+    "location":"Wandsworth Road Goods Yard, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":182000,
+    "Tonnage Received 2016":6979.26,
+    "Average Tonnage Received (2013-16)":2565.53,
+    "Difference":-4413.73,
+    "License Number":"83668",
+    "Operator":"Cory Environmental Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.350475,51.5237271 ]
+    },
+    "properties": {
+    "location":"Greenford Depot Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":37500,
+    "Tonnage Received 2016":14837.77,
+    "Average Tonnage Received (2013-16)":15251.39,
+    "Difference":413.62,
+    "License Number":"80031",
+    "Operator":"Ealing London Borough Council",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0954844,51.5237482 ]
+    },
+    "properties": {
+    "location":"Pinns Wharf Ltd, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":1000000,
+    "Tonnage Received 2016":90265,
+    "Average Tonnage Received (2013-16)":101805.72,
+    "Difference":11540.72,
+    "License Number":"104912",
+    "Operator":"Pinns Wharf Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0795826,51.523972 ]
+    },
+    "properties": {
+    "location":"Barking Waste Transfer And Recycling Facility, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":160250,
+    "Tonnage Received 2016":119022.37,
+    "Average Tonnage Received (2013-16)":102960.16,
+    "Difference":-16062.21,
+    "License Number":"80109",
+    "Operator":"Biffa Waste Services Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1345761,51.5242568 ]
+    },
+    "properties": {
+    "location":"S U C Exc Uk Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":44391,
+    "Average Tonnage Received (2013-16)":37664.26,
+    "Difference":-6726.74,
+    "License Number":"104126",
+    "Operator":"S U C Exc U K Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2568603,51.5244021 ]
+    },
+    "properties": {
+    "location":"Quattro Park Royal, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":438000,
+    "Tonnage Received 2016":82304.49,
+    "Average Tonnage Received (2013-16)":103320.63,
+    "Difference":21016.14,
+    "License Number":"80595",
+    "Operator":"Quattro ( U K ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0950868,51.5244519 ]
+    },
+    "properties": {
+    "location":"E L G Haniel Metals Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":16128,
+    "Average Tonnage Received (2013-16)":15984.25,
+    "Difference":-143.75,
+    "License Number":"400638",
+    "Operator":"E L G Haniel Metals Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.353438,51.524517 ]
+    },
+    "properties": {
+    "location":"Greenford Depot, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":20862.4,
+    "Average Tonnage Received (2013-16)":20598.34,
+    "Difference":-264.06,
+    "License Number":"80032",
+    "Operator":"London Borough of Ealing Council",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1084817,51.5248264 ]
+    },
+    "properties": {
+    "location":"Edwards Waste Recycling - Barking, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":79890,
+    "Average Tonnage Received (2013-16)":75939.5,
+    "Difference":-3950.5,
+    "License Number":"80765",
+    "Operator":"Edwards Waste Paper Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.234005,51.5250132 ]
+    },
+    "properties": {
+    "location":"Scrubs Lane, Willesden, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":244305,
+    "Tonnage Received 2016":27186.2,
+    "Average Tonnage Received (2013-16)":41871.69,
+    "Difference":14685.49,
+    "License Number":"80019",
+    "Operator":"J Simpson Waste Management Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1020937,51.5253738 ]
+    },
+    "properties": {
+    "location":"19 Thames Road, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":8410,
+    "Average Tonnage Received (2013-16)":3852.5,
+    "Difference":-4557.5,
+    "License Number":"402252",
+    "Operator":"Max Recycling Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1461168,51.5262269 ]
+    },
+    "properties": {
+    "location":"Dagenham Dock Aggregate Recycling Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":249999,
+    "Tonnage Received 2016":428.72,
+    "Average Tonnage Received (2013-16)":576.26,
+    "Difference":147.54,
+    "License Number":"401033",
+    "Operator":"Hanson Quarry Products Europe Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1660352,51.5265249 ]
+    },
+    "properties": {
+    "location":"Mardyke Farm, London",
+    "Site Type":"Disposal",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":452176,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":2220.94,
+    "Difference":2220.94,
+    "License Number":"80124",
+    "Operator":"Ebbcliffe Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.247981,51.5265773 ]
+    },
+    "properties": {
+    "location":"Willesden Freight Terminal, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":500000,
+    "Tonnage Received 2016":661789.64,
+    "Average Tonnage Received (2013-16)":421368.34,
+    "Difference":-240421.3,
+    "License Number":"104421",
+    "Operator":"L Lynch ( Plant Hire & Haulage ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.235352,51.526955 ]
+    },
+    "properties": {
+    "location":"Scrubs Lane Metal Recycling Site, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":24972.92,
+    "Average Tonnage Received (2013-16)":6243.23,
+    "Difference":-18729.69,
+    "License Number":"401860",
+    "Operator":"Capital Metal Recycling Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0765988,51.5280049 ]
+    },
+    "properties": {
+    "location":"Jenkins Lane WM Facility EPR/WP3433BY, London",
+    "Site Type":"Fuel preparation and MBT",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":337000,
+    "Tonnage Received 2016":220337.91,
+    "Average Tonnage Received (2013-16)":210147.06,
+    "Difference":-10190.85,
+    "License Number":"WP3433BY",
+    "Operator":"Shanks Waste Management Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2582087,51.5280364 ]
+    },
+    "properties": {
+    "location":"ACTON REFINERY, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":999999,
+    "Tonnage Received 2016":1.47,
+    "Average Tonnage Received (2013-16)":0.9,
+    "Difference":-0.57,
+    "License Number":"BM1741IS",
+    "Operator":"Vale Europe Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.088597,51.528333 ]
+    },
+    "properties": {
+    "location":"G & S Tyre Services Ltd, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":528.54,
+    "Average Tonnage Received (2013-16)":420.73,
+    "Difference":-107.81,
+    "License Number":"102554",
+    "Operator":"G & S Tyre Services Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.247096,51.52962 ]
+    },
+    "properties": {
+    "location":"Horn Lane Waste Transfer Station, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":17000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":15472.75,
+    "Difference":15472.75,
+    "License Number":"80060",
+    "Operator":"Quattro ( U K ) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.091756,51.5297141 ]
+    },
+    "properties": {
+    "location":"Alfreds Way, Barking, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":109500,
+    "Tonnage Received 2016":14097.21,
+    "Average Tonnage Received (2013-16)":9885.99,
+    "Difference":-4211.22,
+    "License Number":"80111",
+    "Operator":"Creek Metals Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.09715,51.530105 ]
+    },
+    "properties": {
+    "location":"Humphries Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":109509.11,
+    "Average Tonnage Received (2013-16)":59565.4,
+    "Difference":-49943.71,
+    "License Number":"103643",
+    "Operator":"S Norton & Co Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2560146,51.5301205 ]
+    },
+    "properties": {
+    "location":"Land Adjoining Bramble Lane Fishing Lakes, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":50000,
+    "Tonnage Received 2016":8797.9,
+    "Average Tonnage Received (2013-16)":2382.32,
+    "Difference":-6415.58,
+    "License Number":"400952",
+    "Operator":"Gibson Ian",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0687538,51.5315014 ]
+    },
+    "properties": {
+    "location":"Unit 5, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":804,
+    "Average Tonnage Received (2013-16)":373,
+    "Difference":-431,
+    "License Number":"401238",
+    "Operator":"U K And European Construction Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1041466,51.5319354 ]
+    },
+    "properties": {
+    "location":"Cannon Hygeine Barking Waste Facility, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":263.8,
+    "Average Tonnage Received (2013-16)":65.95,
+    "Difference":-197.85,
+    "License Number":"402973",
+    "Operator":"O C S Group U K Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1215671,51.5324452 ]
+    },
+    "properties": {
+    "location":"Albion Yard, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":15500,
+    "Tonnage Received 2016":8225.54,
+    "Average Tonnage Received (2013-16)":8519.01,
+    "Difference":293.47,
+    "License Number":"83233",
+    "Operator":"Vinton Metals Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.014935,51.532669 ]
+    },
+    "properties": {
+    "location":"Barbers Road Facility, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":150000,
+    "Tonnage Received 2016":80475.37,
+    "Average Tonnage Received (2013-16)":51915.2,
+    "Difference":-28560.17,
+    "License Number":"80107",
+    "Operator":"Regional Waste Recycling ( Commercial) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2315669,51.5332022 ]
+    },
+    "properties": {
+    "location":"Little Gerpins 2 Landfill, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":306000,
+    "Tonnage Received 2016":159320,
+    "Average Tonnage Received (2013-16)":44678.25,
+    "Difference":-114641.75,
+    "License Number":"401833",
+    "Operator":"Ingrebourne Valley Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.259717,51.533396 ]
+    },
+    "properties": {
+    "location":"Land At Unit 1, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":512.5,
+    "Difference":512.5,
+    "License Number":"83482",
+    "Operator":"Pick A Part Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3044616,51.5339283 ]
+    },
+    "properties": {
+    "location":"Alperton Lane Waste TS EPR/LP3037WG, London",
+    "Site Type":"Fuel preparation and MBT",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":150000,
+    "Tonnage Received 2016":85333.3,
+    "Average Tonnage Received (2013-16)":21333.32,
+    "Difference":-63999.98,
+    "License Number":"LP3037WG",
+    "Operator":"O'Donovan (Waste Disposal) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0200307,51.5343063 ]
+    },
+    "properties": {
+    "location":"J B Riney & Co Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":49999,
+    "Tonnage Received 2016":37710,
+    "Average Tonnage Received (2013-16)":34773.75,
+    "Difference":-2936.25,
+    "License Number":"80137",
+    "Operator":"J B Riney & Co Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2775277,51.534673 ]
+    },
+    "properties": {
+    "location":"Twyford Waste Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":38628.58,
+    "Average Tonnage Received (2013-16)":38061.68,
+    "Difference":-566.9,
+    "License Number":"80078",
+    "Operator":"West London Waste Authority",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.015134,51.5361281 ]
+    },
+    "properties": {
+    "location":"Marshgate Sidings, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":700000,
+    "Tonnage Received 2016":257436.94,
+    "Average Tonnage Received (2013-16)":192567.56,
+    "Difference":-64869.38,
+    "License Number":"100245",
+    "Operator":"D B Schenker Rail ( U K) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4906828,51.5363239 ]
+    },
+    "properties": {
+    "location":"Thames Materials, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":500000,
+    "Tonnage Received 2016":262394.08,
+    "Average Tonnage Received (2013-16)":116312.98,
+    "Difference":-146081.1,
+    "License Number":"401566",
+    "Operator":"Thames Materials Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2392451,51.5365395 ]
+    },
+    "properties": {
+    "location":"Gerpins Lane Reuse & Recycling Centre, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":115500,
+    "Tonnage Received 2016":16210.81,
+    "Average Tonnage Received (2013-16)":24912.64,
+    "Difference":8701.83,
+    "License Number":"80090",
+    "Operator":"E L W A Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.075766,51.536563 ]
+    },
+    "properties": {
+    "location":"Barking Riverside ( Resource Information And Marketing Suite), London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":200000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":5661,
+    "Difference":5661,
+    "License Number":"103229",
+    "Operator":"Foundation Developments Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2783835,51.5369275 ]
+    },
+    "properties": {
+    "location":"Brent Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":364000,
+    "Tonnage Received 2016":30972.89,
+    "Average Tonnage Received (2013-16)":99959.4,
+    "Difference":68986.51,
+    "License Number":"80379",
+    "Operator":"Veolia E S ( U K ) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1353321,51.5384739 ]
+    },
+    "properties": {
+    "location":"Central Depot, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":60000,
+    "Tonnage Received 2016":16945.58,
+    "Average Tonnage Received (2013-16)":19208.92,
+    "Difference":2263.34,
+    "License Number":"400101",
+    "Operator":"London Borough of Richmond Upon Thames",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.14743,51.53889 ]
+    },
+    "properties": {
+    "location":"Reuse Collections, Dagenham, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":250000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":42379.85,
+    "Difference":42379.85,
+    "License Number":"80120",
+    "Operator":"U R M ( U K ) Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2918819,51.5394373 ]
+    },
+    "properties": {
+    "location":"Unit 7, Abbey Industrial Estate, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":62.02,
+    "Average Tonnage Received (2013-16)":29.43,
+    "Difference":-32.59,
+    "License Number":"401409",
+    "Operator":"Wandle Waste Management Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0809453,51.5395507 ]
+    },
+    "properties": {
+    "location":"Barking Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":182500,
+    "Tonnage Received 2016":169155.12,
+    "Average Tonnage Received (2013-16)":109449.8,
+    "Difference":-59705.32,
+    "License Number":"80572",
+    "Operator":"Shukco 347 Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3153667,51.5400437 ]
+    },
+    "properties": {
+    "location":"Bilton Road M R F, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":49500,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":4.35,
+    "Difference":4.35,
+    "License Number":"102678",
+    "Operator":"Viridor Waste Management Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127385,51.5404288 ]
+    },
+    "properties": {
+    "location":"British Rail Goods Yard, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":150000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":7044.5,
+    "Difference":7044.5,
+    "License Number":"80571",
+    "Operator":"Iver Recycling ( U K) Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.234338,51.542988 ]
+    },
+    "properties": {
+    "location":"Willesden Depot, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":419000,
+    "Tonnage Received 2016":156576.65,
+    "Average Tonnage Received (2013-16)":136115.23,
+    "Difference":-20461.42,
+    "License Number":"80371",
+    "Operator":"European Metal Recycling Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1410322,51.5460127 ]
+    },
+    "properties": {
+    "location":"Former Jewson Site, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":20840.62,
+    "Average Tonnage Received (2013-16)":8554.4,
+    "Difference":-12286.22,
+    "License Number":"401394",
+    "Operator":"Westminster Waste Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1163578,51.5496209 ]
+    },
+    "properties": {
+    "location":"Holloway Lane Materials Recycling Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":149999,
+    "Tonnage Received 2016":92612.16,
+    "Average Tonnage Received (2013-16)":98059.72,
+    "Difference":5447.56,
+    "License Number":"80564",
+    "Operator":"Iver Recycling ( U K) Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1081271,51.5496232 ]
+    },
+    "properties": {
+    "location":"London Auto Parts Limited, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":24999,
+    "Tonnage Received 2016":12614,
+    "Average Tonnage Received (2013-16)":12848.75,
+    "Difference":234.75,
+    "License Number":"80603",
+    "Operator":"London Auto Parts Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2484961,51.5523357 ]
+    },
+    "properties": {
+    "location":"Neasden Goods Yard, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":206225,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":156.25,
+    "Difference":156.25,
+    "License Number":"80018",
+    "Operator":"Metal & Waste Recycling Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.249187,51.552526 ]
+    },
+    "properties": {
+    "location":"Mitre Works, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":83600,
+    "Tonnage Received 2016":16104.31,
+    "Average Tonnage Received (2013-16)":21571.56,
+    "Difference":5467.25,
+    "License Number":"80743",
+    "Operator":"Metal And Waste Recycling Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2506872,51.554778 ]
+    },
+    "properties": {
+    "location":"Glynn Skips, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":201500,
+    "Tonnage Received 2016":27103,
+    "Average Tonnage Received (2013-16)":27354.75,
+    "Difference":251.75,
+    "License Number":"80035",
+    "Operator":"X- Bert Haulage Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2620297,51.5567077 ]
+    },
+    "properties": {
+    "location":"Seneca Environmental Solutions Ltd, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":400000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":81520.21,
+    "Difference":81520.21,
+    "License Number":"102114",
+    "Operator":"Seneca Environmental Solutions Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2730803,51.5573043 ]
+    },
+    "properties": {
+    "location":"Unit 4 Second Way, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":54602,
+    "Average Tonnage Received (2013-16)":19138,
+    "Difference":-35464,
+    "License Number":"402465",
+    "Operator":"H A W K Rubbish Clearance Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1587204,51.5574998 ]
+    },
+    "properties": {
+    "location":"Frizlands Lane Reuse & Recycling Centre, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":80000,
+    "Tonnage Received 2016":13813.28,
+    "Average Tonnage Received (2013-16)":24419.06,
+    "Difference":10605.78,
+    "License Number":"80105",
+    "Operator":"ELWA Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2645691,51.5577193 ]
+    },
+    "properties": {
+    "location":"Unit 2, Hannah Close, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":5222.5,
+    "Difference":5222.5,
+    "License Number":"101440",
+    "Operator":"P J Carey ( Contractors ) Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2658681,51.5582773 ]
+    },
+    "properties": {
+    "location":"L & B Haulage, Neasden, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":116250,
+    "Tonnage Received 2016":5400,
+    "Average Tonnage Received (2013-16)":4578.75,
+    "Difference":-821.25,
+    "License Number":"80361",
+    "Operator":"L & B Haulage & Civil Engineering Contractors Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.063453,51.5584835 ]
+    },
+    "properties": {
+    "location":"Kwik Body Works Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":27,
+    "Average Tonnage Received (2013-16)":26,
+    "Difference":-1,
+    "License Number":"101486",
+    "Operator":"Kwik Body Works Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2143514,51.5613931 ]
+    },
+    "properties": {
+    "location":"Donoghue, Claremont Rd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":113760,
+    "Tonnage Received 2016":111225.88,
+    "Average Tonnage Received (2013-16)":113781.38,
+    "Difference":2555.5,
+    "License Number":"80294",
+    "Operator":"P B Donoghue (Haulage & Plant Hire) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4023905,51.562082 ]
+    },
+    "properties": {
+    "location":"Victoria Road, South Ruislip, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":50000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":38990.07,
+    "Difference":38990.07,
+    "License Number":"80076",
+    "Operator":"Dafcon Haulage Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.015861,51.563421 ]
+    },
+    "properties": {
+    "location":"G B N Services Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":160000,
+    "Tonnage Received 2016":31079.03,
+    "Average Tonnage Received (2013-16)":39631.77,
+    "Difference":8552.74,
+    "License Number":"80072",
+    "Operator":"G B N Services Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4257816,51.5635478 ]
+    },
+    "properties": {
+    "location":"Ruislip Depot Hazardous Waste Containment Bay, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":224750,
+    "Tonnage Received 2016":56276.56,
+    "Average Tonnage Received (2013-16)":57184.88,
+    "Difference":908.32,
+    "License Number":"MP3834LG",
+    "Operator":"Balfour Beatty Rail Projects Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1213749,51.5660817 ]
+    },
+    "properties": {
+    "location":"Hornsey Road Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":152400,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":1276.96,
+    "Difference":1276.96,
+    "License Number":"80721",
+    "Operator":"LondonWaste Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.023797,51.566247 ]
+    },
+    "properties": {
+    "location":"Pulse Environmental Limited, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":9164.35,
+    "Average Tonnage Received (2013-16)":6005.73,
+    "Difference":-3158.62,
+    "License Number":"400150",
+    "Operator":"Pulse Environmental Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0397497,51.5669331 ]
+    },
+    "properties": {
+    "location":"Tipmaster Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":3621.98,
+    "Average Tonnage Received (2013-16)":1763.73,
+    "Difference":-1858.25,
+    "License Number":"102591",
+    "Operator":"Tipmaster Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0400367,51.5670846 ]
+    },
+    "properties": {
+    "location":"T J Autos ( U K) Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":10.5,
+    "Average Tonnage Received (2013-16)":41.44,
+    "Difference":30.94,
+    "License Number":"101430",
+    "Operator":"T J Autos ( U K) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.038151,51.568787 ]
+    },
+    "properties": {
+    "location":"Malby Waste Disposal Ltd, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":9924.55,
+    "Average Tonnage Received (2013-16)":10142.22,
+    "Difference":217.67,
+    "License Number":"80146",
+    "Operator":"Dem'cy Contractors Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.160646,51.5688812 ]
+    },
+    "properties": {
+    "location":"Crow Metals Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":40000,
+    "Tonnage Received 2016":11235.83,
+    "Average Tonnage Received (2013-16)":5143.18,
+    "Difference":-6092.65,
+    "License Number":"104496",
+    "Operator":"Crow Metals Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.039479,51.568925 ]
+    },
+    "properties": {
+    "location":"Argall Metal Recycling Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":20879.39,
+    "Difference":20879.39,
+    "License Number":"80756",
+    "Operator":"Argall Metal Recycling Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4348795,51.5692168 ]
+    },
+    "properties": {
+    "location":"Kershire West Ruislip, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":24700,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":2084.16,
+    "Difference":2084.16,
+    "License Number":"80550",
+    "Operator":"Kershire Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.224436,51.570541 ]
+    },
+    "properties": {
+    "location":"Hendon Waste Transfer Station, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":375600,
+    "Tonnage Received 2016":142107.43,
+    "Average Tonnage Received (2013-16)":137324.62,
+    "Difference":-4782.81,
+    "License Number":"80334",
+    "Operator":"Londonenergy Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2223704,51.5706427 ]
+    },
+    "properties": {
+    "location":"26/27 Claremont Way Ind Est, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":91000,
+    "Tonnage Received 2016":60139,
+    "Average Tonnage Received (2013-16)":53932.25,
+    "Difference":-6206.75,
+    "License Number":"80308",
+    "Operator":"Mc Govern Haulage Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2384418,51.5710731 ]
+    },
+    "properties": {
+    "location":"Scratchwood Quarry, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":249000,
+    "Tonnage Received 2016":131504.76,
+    "Average Tonnage Received (2013-16)":101034.38,
+    "Difference":-30470.38,
+    "License Number":"102529",
+    "Operator":"Quality Recycling Solutions Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0379653,51.5732906 ]
+    },
+    "properties": {
+    "location":"Leyton Reuse & Recycling Centre, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":282624,
+    "Tonnage Received 2016":2588.9,
+    "Average Tonnage Received (2013-16)":2602.7,
+    "Difference":13.8,
+    "License Number":"80728",
+    "Operator":"Waltham Forest London Borough Council",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0923153,51.5764578 ]
+    },
+    "properties": {
+    "location":"Unit 3 & 4, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":30000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":115.55,
+    "Difference":115.55,
+    "License Number":"400999",
+    "Operator":"Gowing Alan",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1416499,51.5780744 ]
+    },
+    "properties": {
+    "location":"Cranfield Golf Centre, London",
+    "Site Type":"Other - inert",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":1000000,
+    "Tonnage Received 2016":54332,
+    "Average Tonnage Received (2013-16)":217298,
+    "Difference":162966,
+    "License Number":"103294",
+    "Operator":"Carzo Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4485744,51.5796443 ]
+    },
+    "properties": {
+    "location":"Crows Nest Farm, London",
+    "Site Type":"Organic treatment",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":24900,
+    "Tonnage Received 2016":6650.66,
+    "Average Tonnage Received (2013-16)":7889.44,
+    "Difference":1238.78,
+    "License Number":"80676",
+    "Operator":"Country Compost Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4651524,51.5810018 ]
+    },
+    "properties": {
+    "location":"B F A Recycling Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":60293,
+    "Average Tonnage Received (2013-16)":64868,
+    "Difference":4575,
+    "License Number":"103857",
+    "Operator":"B F A Recycling Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0638151,51.5830565 ]
+    },
+    "properties": {
+    "location":"O' Donovan, Tottenham, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":166920,
+    "Tonnage Received 2016":123308,
+    "Average Tonnage Received (2013-16)":54029.13,
+    "Difference":-69278.87,
+    "License Number":"80317",
+    "Operator":"O' Donovan ( Waste Disposal ) Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4695965,51.5834676 ]
+    },
+    "properties": {
+    "location":"New Years Green Lane Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":43255.8,
+    "Average Tonnage Received (2013-16)":34801.31,
+    "Difference":-8454.49,
+    "License Number":"80043",
+    "Operator":"London Borough of Hillingdon",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.327183,51.5892295 ]
+    },
+    "properties": {
+    "location":"Forward Drive C A Site, Harrow, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":40367.87,
+    "Average Tonnage Received (2013-16)":35330.3,
+    "Difference":-5037.57,
+    "License Number":"80039",
+    "Operator":"London Borough of Harrow",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1160886,51.5944627 ]
+    },
+    "properties": {
+    "location":"Wallingford Road Recycling Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":5695,
+    "Average Tonnage Received (2013-16)":8723.75,
+    "Difference":3028.75,
+    "License Number":"104532",
+    "Operator":"Bally Skips Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0424835,51.5983342 ]
+    },
+    "properties": {
+    "location":"Chigwell Road Re-use & Recycling Centre, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":28600,
+    "Tonnage Received 2016":15280.57,
+    "Average Tonnage Received (2013-16)":20098.88,
+    "Difference":4818.31,
+    "License Number":"80106",
+    "Operator":"E L W A Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0657389,51.6032123 ]
+    },
+    "properties": {
+    "location":"White Hart Lane, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":13773.25,
+    "Difference":13773.25,
+    "License Number":"80607",
+    "Operator":"Redcorn Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0512475,51.6043129 ]
+    },
+    "properties": {
+    "location":"Garman Road, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":86925,
+    "Tonnage Received 2016":37453.81,
+    "Average Tonnage Received (2013-16)":34050.77,
+    "Difference":-3403.04,
+    "License Number":"80300",
+    "Operator":"Biffa Waste Services Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1628166,51.6065842 ]
+    },
+    "properties": {
+    "location":"Civic Amenity Site, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":7202.92,
+    "Average Tonnage Received (2013-16)":5931.45,
+    "Difference":-1271.47,
+    "License Number":"80514",
+    "Operator":"Londonenergy Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0557191,51.60792 ]
+    },
+    "properties": {
+    "location":"Redcorn, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":39283,
+    "Average Tonnage Received (2013-16)":17634.25,
+    "Difference":-21648.75,
+    "License Number":"103763",
+    "Operator":"Redcorn Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07062,51.6100169 ]
+    },
+    "properties": {
+    "location":"Hunt Skips, Commercial Road, Edmonton, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":8719,
+    "Average Tonnage Received (2013-16)":12599.5,
+    "Difference":3880.5,
+    "License Number":"80772",
+    "Operator":"Hunt Christopher Joseph Thomas",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0415581,51.6127769 ]
+    },
+    "properties": {
+    "location":"Compost Plant, London",
+    "Site Type":"Organic treatment",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":45000,
+    "Tonnage Received 2016":16609.78,
+    "Average Tonnage Received (2013-16)":29276.28,
+    "Difference":12666.5,
+    "License Number":"80714",
+    "Operator":"LondonWaste Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0499859,51.6134849 ]
+    },
+    "properties": {
+    "location":"Albert Works, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":349000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":167167.3,
+    "Difference":167167.3,
+    "License Number":"80298",
+    "Operator":"Metal & Waste Recycling Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.062553,51.613589 ]
+    },
+    "properties": {
+    "location":"Rooke & Co Ltd, Edmonton, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":3896.94,
+    "Average Tonnage Received (2013-16)":20523.46,
+    "Difference":16626.52,
+    "License Number":"80326",
+    "Operator":"End of Life Vehicle Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4900181,51.6137071 ]
+    },
+    "properties": {
+    "location":"Hep Oils, London",
+    "Site Type":"Materials recycling and sorting",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":5360.33,
+    "Average Tonnage Received (2013-16)":3873.18,
+    "Difference":-1487.15,
+    "License Number":"100312",
+    "Operator":"Hep Oils Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0357154,51.6138484 ]
+    },
+    "properties": {
+    "location":"Camden Plant, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":112112,
+    "Tonnage Received 2016":206806,
+    "Average Tonnage Received (2013-16)":224407.5,
+    "Difference":17601.5,
+    "License Number":"80355",
+    "Operator":"Camden Plant Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0464389,51.6160601 ]
+    },
+    "properties": {
+    "location":"Oakwood Plant Ltd, Edmonton, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":40000,
+    "Tonnage Received 2016":14428.3,
+    "Average Tonnage Received (2013-16)":11355.94,
+    "Difference":-3072.36,
+    "License Number":"80316",
+    "Operator":"Oakwood Plant Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.047905,51.617256 ]
+    },
+    "properties": {
+    "location":"A M I Waste, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":111600,
+    "Tonnage Received 2016":21974,
+    "Average Tonnage Received (2013-16)":25146.73,
+    "Difference":3172.73,
+    "License Number":"80319",
+    "Operator":"Tuglord Enterprises Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1463267,51.6196675 ]
+    },
+    "properties": {
+    "location":"Winters Haulage, Oakleigh Road South, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":28572.75,
+    "Difference":28572.75,
+    "License Number":"80331",
+    "Operator":"Winters Haulage Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0436897,51.6197975 ]
+    },
+    "properties": {
+    "location":"O' Doherty - Pegamoid, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":325000,
+    "Tonnage Received 2016":88636,
+    "Average Tonnage Received (2013-16)":74990.5,
+    "Difference":-13645.5,
+    "License Number":"100204",
+    "Operator":"J O Doherty Haulage Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0932818,51.6268656 ]
+    },
+    "properties": {
+    "location":"Enfield Community Recycling Centre, London",
+    "Site Type":"Household Reuse and Recycling Centres",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":16922.67,
+    "Average Tonnage Received (2013-16)":14214.04,
+    "Difference":-2708.63,
+    "License Number":"80296",
+    "Operator":"Suez Recycling And Recovery U K Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0046047,51.6269263 ]
+    },
+    "properties": {
+    "location":"Kings Road Recycling Centre, London",
+    "Site Type":"Waste transfer (household and commercial)",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":2852.54,
+    "Average Tonnage Received (2013-16)":2078.09,
+    "Difference":-774.45,
+    "License Number":"80155",
+    "Operator":"Londonenergy Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0285278,51.648461 ]
+    },
+    "properties": {
+    "location":"Enfield Waste Management Facility, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":391280,
+    "Tonnage Received 2016":49754.2,
+    "Average Tonnage Received (2013-16)":33939.82,
+    "Difference":-15814.38,
+    "License Number":"80328",
+    "Operator":"Powerday Plc",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.028045,51.652766 ]
+    },
+    "properties": {
+    "location":"Brimsdown Precious Metal Recovery, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":30000,
+    "Tonnage Received 2016":4925.85,
+    "Average Tonnage Received (2013-16)":6075.12,
+    "Difference":1149.27,
+    "License Number":"VP3430BN",
+    "Operator":"Johnson Matthey Plc",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.030401,51.654872 ]
+    },
+    "properties": {
+    "location":"Crews Hill Transfer Station, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":20000,
+    "Tonnage Received 2016":18427,
+    "Average Tonnage Received (2013-16)":18572.25,
+    "Difference":145.25,
+    "License Number":"80716",
+    "Operator":"Enfield Skips Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0299295,51.6551926 ]
+    },
+    "properties": {
+    "location":"Jute Lane, Brimsdown, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":15410.34,
+    "Average Tonnage Received (2013-16)":12481.59,
+    "Difference":-2928.75,
+    "License Number":"80555",
+    "Operator":"Greater London Waste Disposal Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0298014,51.6593836 ]
+    },
+    "properties": {
+    "location":"Pressbay Ltd, London",
+    "Site Type":"Metals and vehicle recycling",
+    "Majority Waste Type":"HIC",
+    "Licensed Tonnage":74999,
+    "Tonnage Received 2016":37.21,
+    "Average Tonnage Received (2013-16)":38.69,
+    "Difference":1.48,
+    "License Number":"80325",
+    "Operator":"Pressbay Ltd",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1037689,51.6665042 ]
+    },
+    "properties": {
+    "location":"Chase Farm Clinical Waste Treatment Facility, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Haz",
+    "Licensed Tonnage":75000,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":1594.38,
+    "Difference":1594.38,
+    "License Number":"80350",
+    "Operator":"Tradebe Healthcare National Limited",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0767655,51.6818193 ]
+    },
+    "properties": {
+    "location":"Guy Lodge Farm, London",
+    "Site Type":"Other",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":99999,
+    "Tonnage Received 2016":0,
+    "Average Tonnage Received (2013-16)":9480,
+    "Difference":9480,
+    "License Number":"104320",
+    "Operator":"The London Composting Company Ltd",
+    "Facilities on site (if known)":"Multiple waste types managed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1554757,51.7497786 ]
+    },
+    "properties": {
+    "location":"Yard 10 - 12 Hastingwood Trading Est, London",
+    "Site Type":"Transfer and treatment (construction, demolition and excavation)",
+    "Majority Waste Type":"Inert",
+    "Licensed Tonnage":25000,
+    "Tonnage Received 2016":10695.52,
+    "Average Tonnage Received (2013-16)":11247.98,
+    "Difference":552.46,
+    "License Number":"100468",
+    "Operator":"A & A Skip Hire Limited",
+    "Facilities on site (if known)":"Only one waste type managed (90%)"
+    }
+  }
+]
+}

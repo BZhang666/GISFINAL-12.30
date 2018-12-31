@@ -1,0 +1,4 @@
+"0","res <- poly.counts(WastepointBNG, BoroughMapBNG)"
+"0","BoroughMapBNG@data$WastepointCount<-res"
+"0","BoroughMapBNG@data$WasteDensity <- BoroughMapBNG$WastepointCount/poly.areas(BoroughMapBNG)"
+"0","BoroughMapBNG@data"
