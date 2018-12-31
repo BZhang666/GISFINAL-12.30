@@ -35,12 +35,10 @@ BoroughMapSF <- read_shape("BoundaryData/england_lad_2011.shp", as.sf = TRUE)
 I_O_brough <- read.csv('Inner_Outer.csv')
 names(I_O_brough) <- c("Code", "Inner_Outer")
 BoroughMapSF <- merge(BoroughMapSF, I_O_brough, by.x = "code", by.y = "Code")
-Pricedata <- read.csv('PriceData.csv')
-Pricedata$Value <- as.numeric(Pricedata$Value)
-names(Pricedata) <- c("Code", "Value")
-LondonWards <- readOGR("London_Ward_CityMerged.shp", layer="London_Ward_CityMerged")
+LondonWards <- readOGR("WardsData/London_Ward_CityMerged.shp", layer="London_Ward_CityMerged")
 BoroughMap <- as(BoroughMapSF, "Spatial")
 Wastepoint <- geojson_read("point.geojson", what = "sp")
+Pricedata <- read.csv('PriceData.csv')
 ```
 
 
@@ -83,45 +81,69 @@ BroughBNGSF <- st_as_sf(BoroughMapBNG)
 ```
 
 ```{r pressure, echo=FALSE}
-BroughOuter <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Outer London'),]
-BroughOuterSP <- as(BroughOuter,"Spatial")
-BroughOuterSP <- spTransform(BroughOuterSP,BNG)
-WastepointSub <- WastepointBNG[BroughOuterSP,]
-LondonWards@data <- data.frame(LondonWards@data,Pricedata[match(LondonWards@data[,"GSS_CODE"],Pricedata[,"Code"]),])
-WardsOUT <- LondonWardsBNG[BroughOuterSP,]
-tm_shape(WardsOUT) +
-  tm_polygons(col = NA, alpha = 0.5) +
-  tm_shape(WastepointSub) +
-  tm_dots(col = "blue")
-res <- poly.counts(WastepointSub, WardsOUT)
-WardsOUT@data$WastepointCount<-res
-WardsOUT@data$WasteDensity <- WardsOUT$WastepointCount/poly.areas(WardsOUT)
-tm_shape(WardsOUT) +
+
+res <- poly.counts(WastepointBNG, LondonWardsBNG)
+LondonWardsBNG@data$WastepointCount<-res
+LondonWardsBNG@data$WasteDensity <- LondonWardsBNG$WastepointCount/poly.areas(LondonWardsBNG)
+tm_shape(LondonWardsBNG) +
   tm_polygons("WasteDensity",
               style="jenks",
               palette="PuOr",
               midpoint=NA,
               title="Waste Point Density")
-WardsOUTSF <- st_as_sf(WardsOUT)
+```
+
+```{r pressure, echo=FALSE}
+coordsW <- coordinates(LondonWardsBNG)
+plot(LondonWardsBNG)
+LB_nb <- poly2nb(LondonWardsBNG, queen=T)
+#plot them
+plot(LB_nb, coordinates(LondonWardsBNG), col="red")
+#add a map underneath
+plot(LondonWardsBNG, add=T)
+Lward.lw <- nb2listw(LB_nb, style="C")
+I_LWard_Global_Density <- moran.test(LondonWardsBNG@data$WasteDensity, Lward.lw)
+I_LWard_Global_Density
+
+G_LWard_Global_Density <- globalG.test(LondonWardsBNG@data$WasteDensity, Lward.lw)
+G_LWard_Global_Density
 ```
 
 
 ```{r pressure, echo=FALSE}
 newvar<-0
-attach(WardsOUTSF)
+LondonWardsSF <- st_as_sf(LondonWardsBNG)
+attach(LondonWardsSF)
 newvar<-0
 recode<-function(variable){
-  newvar[variable>0]<-TRUE
-  newvar[variable==0]<-FALSE
+  newvar[variable>0]<-"Yes"
+  newvar[variable==0]<-"No"
   return(newvar)
 }
-WardsOUTSF$WastepointCount_recode <- recode(WastepointCount)
-WardsOUTSF$WastepointCount <- as.numeric(WardsOUTSF$WastepointCount)
-tm_shape(WardsOUTSF) +
+LondonWardsBNG$WastepointCount_recode <- recode(WastepointCount)
+tm_shape(LondonWardsBNG) +
   tm_polygons("WastepointCount_recode")
-
-WithWaste <- subset(WardsOUTSF, WastepointCount_recode > 0, select = c(NAME, Value,WastepointCount))
-WithoutWaste<- subset(WardsOUTSF, WastepointCount_recode < 1, select = c(NAME, Value))
 ```
+
+
+
 ```{r pressure, echo=FALSE}
 
+names(Pricedata) <- c("Code", "Value")
+Pricedata$Value <- as.numeric(Pricedata$Value)
+BroughOuterSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Outer London'),]
+BroughOuterSP <- as(BroughOuter,"Spatial")
+BroughOuterSP <- spTransform(BroughOuterSP,BNG)
+BroughInnerSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Inner London'),]
+BroughInnerSP <- as(BroughInnerSF,"Spatial")
+BroughInnerSP <- spTransform(BroughInnerSP,BNG)
+
+LondonWardsBNG@data <- data.frame(LondonWardsBNG@data,Pricedata[match(LondonWardsBNG@data[,"GSS_CODE"],Pricedata[,"Code"]),])
+WardsOUT <- LondonWardsBNG[BroughOuterSP,]
+WardsInner <- LondonWardsBNG[BroughInnerSP,]
+
+
+chisq<-chisq.test(WardsInner$WastepointCount_recode,WardsOUT$WastepointCount_recode)
+
+
+```
