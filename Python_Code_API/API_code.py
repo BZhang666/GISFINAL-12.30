@@ -2,7 +2,7 @@ import googlemaps
 import csv
 import time
 
-gmaps = googlemaps.Client(key='AIzaSyBbZ0orHv_hda3djm-ZTefFzeHsKfaCkSQ')
+gmaps = googlemaps.Client(key='YOUR KEY') #I deleted my API key here, you can enter your Key if you want to reuse this code
 
 with open('Siteinfomation.csv', mode='r') as locationsFile:
     with open('location.csv', mode='w') as geocodedLocationsFile:
@@ -26,7 +26,7 @@ with open('Siteinfomation.csv', mode='r') as locationsFile:
                        geocodedResult.get('geometry').get('location').get('lng'),
                 ])
 
-                time.sleep(0.05)
+                time.sleep(0.05)  #set a sleep time to satisfy the requirement of google API
             except IndexError:
               locationsWriter.writerow([
                     locationAddress,

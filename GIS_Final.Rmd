@@ -36,10 +36,13 @@ BoroughMapSF <- read_shape("BoundaryData/england_lad_2011.shp", as.sf = TRUE)
 I_O_brough <- read.csv('Inner_Outer.csv')
 names(I_O_brough) <- c("Code", "Inner_Outer")
 BoroughMapSF <- merge(BoroughMapSF, I_O_brough, by.x = "code", by.y = "Code")
-LondonWards <- readOGR("WardsData/London_Ward_CityMerged.shp", layer="London_Ward_CityMerged")
+LondonWards <- readOGR("WardsData/LondonWards.shp", layer="LondonWards")
 BoroughMap <- as(BoroughMapSF, "Spatial")
 Wastepoint <- geojson_read("point.geojson", what = "sp")
-Pricedata <- read.csv('PriceData.csv')
+Wardsdata <- read.csv("Rawdata.csv")
+LondonWardsSF <- st_as_sf(LondonWards)
+LondonWardsSF <- merge(LondonWardsSF,Wardsdata, by.x="WD11CD", by.y="New.ward.code")
+LondonWards <- as(LondonWardsSF,"Spatial")
 ```
 
 
@@ -89,7 +92,7 @@ LondonWardsBNG@data$WasteDensity <- LondonWardsBNG$WastepointCount/poly.areas(Lo
 tm_shape(LondonWardsBNG) +
   tm_polygons("WasteDensity",
               style="jenks",
-              palette="PuOr",
+              palette="BuPu",
               midpoint=NA,
               title="Waste Point Density")
 ```
@@ -139,7 +142,6 @@ BroughInnerSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Inner London'),]
 BroughInnerSP <- as(BroughInnerSF,"Spatial")
 BroughInnerSP <- spTransform(BroughInnerSP,BNG)
 
-LondonWardsBNG@data <- data.frame(LondonWardsBNG@data,Pricedata[match(LondonWardsBNG@data[,"GSS_CODE"],Pricedata[,"Code"]),])
 WardsOUT <- LondonWardsBNG[BroughOuterSP,]
 WardsInner <- LondonWardsBNG[BroughInnerSP,]
 

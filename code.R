@@ -39,7 +39,7 @@ library(spdep)
 C_LWard_Global_Density <- geary.test(LondonWardsBNG@data$WasteDensity, Lward.lw)
 C_LWard_Global_Density
 
-
+tmaptools::palette_explorer()
 
 
 LondonWardsSF <- st_as_sf(LondonWards)
