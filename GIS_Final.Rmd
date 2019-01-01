@@ -24,6 +24,7 @@ library(tidyverse)
 library(broom)
 library(ggplot2)
 library(spdep)
+library(corrplot)
 ```
 
 ## Including Plots
@@ -88,16 +89,26 @@ BroughBNGSF <- st_as_sf(BoroughMapBNG)
 
 res <- poly.counts(WastepointBNG, LondonWardsBNG)
 LondonWardsBNG@data$WastepointCount<-res
-LondonWardsBNG@data$WasteDensity <- LondonWardsBNG$WastepointCount/poly.areas(LondonWardsBNG)
+LondonWardsBNG@data$WasteDensity <- LondonWardsBNG$WastepointCount/poly.areas(LondonWardsBNG)*1000000
 tm_shape(LondonWardsBNG) +
   tm_polygons("WasteDensity",
-              style="jenks",
-              palette="BuPu",
+              style="cont",
+              palette="Oranges",
               midpoint=NA,
               title="Waste Point Density")
 ```
 
 ```{r pressure, echo=FALSE}
+
+window <- as.owin(LondonWardsBNG)
+plot(window)
+Wastepoint.ppp <- ppp(x=WastepointBNG@coords[,1],y=WastepointBNG@coords[,2],window=window)
+K <- Kest(Wastepoint.ppp, correction="border",rmax=2000)
+plot(K)
+```
+
+
+```{r code, echo=FALSE}
 coordsW <- coordinates(LondonWardsBNG)
 plot(LondonWardsBNG)
 LB_nb <- poly2nb(LondonWardsBNG, queen=T)
@@ -111,6 +122,25 @@ I_LWard_Global_Density
 
 G_LWard_Global_Density <- globalG.test(LondonWardsBNG@data$WasteDensity, Lward.lw)
 G_LWard_Global_Density
+
+I_LWard_Local <- localmoran(LondonWardsBNG@data$WastepointCount, Lward.lw)
+I_LWard_Local_Density <- localmoran(LondonWardsBNG@data$WasteDensity, Lward.lw)
+
+LondonWardsBNG@data$BLocI <- I_LWard_Local[,1]
+LondonWardsBNG@data$BLocIz <- I_LWard_Local[,4]
+LondonWardsBNG@data$BLocIR <- I_LWard_Local_Density[,1]
+LondonWardsBNG@data$BLocIRz <- I_LWard_Local_Density[,4]
+MoranColours<- rev(brewer.pal(8, "RdGy"))
+breaks1<-c(-1000,-2.58,-1.96,-1.65,1.65,1.96,2.58,1000)
+
+#now plot on an interactive map
+tm_shape(LondonWardsBNG) +
+    tm_polygons("BLocIRz",
+        style="fixed",
+        breaks=breaks1,
+        palette=MoranColours,
+        midpoint=NA,
+        title="Local Moran's I, Blue Plaques in London")
 ```
 
 
@@ -119,34 +149,69 @@ newvar<-0
 LondonWardsSF <- st_as_sf(LondonWardsBNG)
 attach(LondonWardsSF)
 newvar<-0
-recode<-function(variable){
+recodecount<-function(variable){
   newvar[variable>0]<-T
   newvar[variable==0]<-F
   return(newvar)
 }
 LondonWardsBNG$WastepointCount_recode <- recode(WastepointCount)
 tm_shape(LondonWardsBNG) +
-  tm_polygons("WastepointCount_recode")
+  tm_polygons("WastepointCount_recode",
+              style="cat",
+              palette="Reds",
+              midpoint=NA,
+              title="If ward having any wastepoint")
+
 ```
 
 
 
 ```{r pressure, echo=FALSE}
+newvar <- 0
+recode<-function(variable,high,medium,low){
+  newvar[variable<=high]<-"High"
+  newvar[variable<=medium]<-"Medium"
+  newvar[variable<=low]<-"Low"
+  return(newvar)
+}
+attach(LondonWardsSF)
+chisq$expected
+summary(LondonWardsSF$Unemployment.rate.2013)
+LondonWardsSF$Unemployment2013recode <- recode(Unemployment.rate.2013,23.500,8.1,3.2)
+chisq<-chisq.test(LondonWardsSF$Unemployment2013recode,LondonWardsSF$WastepointCount_recode)
+chisq$observed
+chisq$expected
+chisq$p.value
 
-names(Pricedata) <- c("Code", "Value")
-Pricedata$Value <- as.numeric(Pricedata$Value)
-BroughOuterSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Outer London'),]
-BroughOuterSP <- as(BroughOuterSF,"Spatial")
-BroughOuterSP <- spTransform(BroughOuterSP,BNG)
-BroughInnerSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Inner London'),]
-BroughInnerSP <- as(BroughInnerSF,"Spatial")
-BroughInnerSP <- spTransform(BroughInnerSP,BNG)
 
-WardsOUT <- LondonWardsBNG[BroughOuterSP,]
-WardsInner <- LondonWardsBNG[BroughInnerSP,]
 
-WardsOUTSF=st_as_sf(WardsOUT)
-chisq<-chisq.test(WardsInner$WastepointCount_recode,WardsOUT$WastepointCount_recode)
+
+
 
 
 ```
+
+
+```{r}
+WithWaste <- subset(LondonWardsSF, WastepointCount_recode== T)
+model1 <- lm(Unemployment.rate.2013 ~ WasteDensity, data = LondonWardsSF)
+LondonWardsDF <- st_set_geometry(LondonWardsSF,NULL)
+WithWasteDF <- st_set_geometry(WithWaste,NULL)
+cormat1 <- cor(LondonWardsDF[,c(142,115,105,100,85)], use="complete.obs", method="pearson")
+corrplot(cormat1)
+
+cormat2 <- cor(WithWasteDF[,c(142,115,105,100,85)], use="complete.obs", method="pearson")
+corrplot(cormat2)
+
+
+qplot(WasteDensity,Unemployment.rate.2013 , data = WithWasteDF, geom = "point")
+model1 <- lm(Unemployment.rate.2013 ~ WasteDensity, data = WithWasteDF)
+model1_res <- tidy(model1)
+summary(model1)
+plot(model1)
+moran.test(WardsOUT$model1_res, Lward.lw)
+WardsOUT$model1_res <- model1$residuals
+qtm(WardsOUT, fill = "model_final_res")
+```
+
+

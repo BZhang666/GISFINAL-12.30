@@ -1,9 +1,9 @@
 
-window <- as.owin(BoroughMapBNG)
+window <- as.owin(LondonWardsBNG)
 plot(window)
-WastepointSub.ppp <- ppp(x=WastepointSub@coords[,1],y=WastepointSub@coords[,2],window=window)
-plot(WastepointSub.ppp,pch=16,cex=0.5, main="Waste Point London")
-plot(quadratcount(WastepointSub.ppp, nx = 20, ny = 16),add=T,col="red")
+Wastepoint.ppp <- ppp(x=WastepointBNG@coords[,1],y=WastepointBNG@coords[,2],window=window)
+plot(Wastepoint.ppp,pch=16,cex=0.5, main="Waste Point London")
+plot(quadratcount(Wastepoint.ppp, nx = 20, ny = 16),add=T,col="red")
 Qcount<-data.frame(quadratcount(WastepointSub.ppp, nx = 20, ny = 16))
 QCountTable <- data.frame(table(Qcount$Freq, exclude=NULL))
 QCountTable
@@ -12,9 +12,13 @@ QCountTable
 K <- Kest(WastepointSub.ppp)
 plot(K)
 
-
-
-
+WardsOUTSP <- as(WardsOUT,"Spatial")
+coordsW <- coordinates(WardsOUTSP)
+plot(WardsOUTSP)
+LB_nb <- poly2nb(WardsOUTSP, queen=T)
+plot(LB_nb, coordinates(WardsOUTSP), col="red")
+plot(WardsOUTSP, add=T)
+Lward.lw <- nb2listw(LB_nb, style="C")
 
 
 res <- poly.counts(Wastepoint, LondonWards)
@@ -61,7 +65,8 @@ tm_shape(LondonWardsSF) +
 WithWaste <- subset(WardsOUTSF, WastepointCount_recode== "Yes", select = c(NAME, Value,WastepointCount,WasteDensity))
 WithoutWaste<- subset(WardsOUTSF, WastepointCount_recode== "No", select = c(NAME, Value))
 
-
+varlist <- data.frame(cbind(lapply(LondonWardsSF, class)))
+varlist$id <- seq(1,nrow(varlist))
 
 qplot(sample = Value, data = WithWaste)
 ggplot(WithoutWaste, aes(sample=Value))+stat_qq()
@@ -73,4 +78,28 @@ model1_res <- tidy(model1)
 summary(model1)
 WithWaste$model_final_res <- model1$residuals
 qtm(WithWaste, fill = "model_final_res")
+
+
+names(Pricedata) <- c("Code", "Value")
+Pricedata$Value <- as.numeric(Pricedata$Value)
+BroughOuterSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Outer London'),]
+BroughOuterSP <- as(BroughOuterSF,"Spatial")
+BroughOuterSP <- spTransform(BroughOuterSP,BNG)
+BroughInnerSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Inner London'),]
+BroughInnerSP <- as(BroughInnerSF,"Spatial")
+BroughInnerSP <- spTransform(BroughInnerSP,BNG)
+
+WardsOUT <- LondonWardsSF[BroughOuterSF,]
+WardsInner <- LondonWardsBNG[BroughInnerSP,]
+
+WardsOUTSF=st_as_sf(WardsOUT)
+
+
+GWRbandwidth <- gwr.sel(Unemployment.rate.2013 ~ WasteDensity, data = LondonWardsSF,coords=cbind(x,y),adapt=T) 
+gwr.model = gwr(Unemployment.rate.2013 ~ WasteDensity, data = LondonWardsSF,coords=cbind(x,y), adapt=GWRbandwidth, hatmatrix=TRUE, se.fit=TRUE) 
+gwr.model
+results<-as.data.frame(gwr.model$SDF)
+LondonWardsSF$coefUnauthAbse<-results$WasteDensity
+tm_shape(LondonWardsSF) +
+  tm_polygons(col = "coefUnauthAbse", palette = "RdBu")
 
