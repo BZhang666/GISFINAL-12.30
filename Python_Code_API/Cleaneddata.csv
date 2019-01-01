@@ -1,0 +1,252 @@
+location,lat,lon,Site Type,Majority Waste Type,Licensed Tonnage,Tonnage Received 2016,Average Tonnage Received (2013-16),Difference,License Number,Operator,Facilities on site (if known)
+"Centenary Works, London",53.3514114,-1.4847841,Other,HIC,75000,22211,26979.75,4768.75,80771,F. J. Church & Sons Limited,Only one waste type managed (90%)
+"Cherry Lodge Golf Club, London",51.310031,0.0542413,Other - inert,Inert,356550,0,89087,89087,102721,Woodland Environmental Ltd,Multiple waste types managed
+"Day Aggregates Purley Depot, London",51.336891,-0.113596,"Transfer and treatment (construction, demolition and excavation)",Inert,249999,118650,160262.82,41612.82,103455,Day Group Ltd,Only one waste type managed (90%)
+"Purley Oaks Depot, London",51.3470601,-0.0990614,"Transfer and treatment (construction, demolition and excavation)",Inert,24700,0,6154.49,6154.49,83306,Kier Highways Limited,Multiple waste types managed
+"Able Waste Services Ltd, London",51.3554689,-0.1192452,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,32688.78,12562.99,-20125.79,104808,Able Waste Services Limited,Only one waste type managed (90%)
+"Sam Smith, Peartree Fm, Addington, Cr0, London",51.358673,-0.0312539,Waste transfer (household and commercial),HIC,37500,59282.3,45121.72,-14160.58,83171,Mr Samuel Smith,Multiple waste types managed
+"H C L House, London",51.37285,-0.134468,"Transfer and treatment (construction, demolition and excavation)",HIC,100000,9566,2512.75,-7053.25,402173,Hydro Cleansing Limited,Multiple waste types managed
+"Genuine Solutions Group Limited, London",51.372897,-0.290525,Other,HIC,74999,234.69,732.51,497.82,104886,Genuine Solutions Group Limited,Only one waste type managed (90%)
+"Chessington Equestrian Centre, London",51.37365,-0.315194,Other - inert,Inert,99999,14450,20060,5610,400892,B L Penwarden Haulage & Demolition Contractors Limited,Only one waste type managed (90%)
+"Stubbs Mead Depot, London",51.3762456,-0.1114783,Waste transfer (household and commercial),HIC,75000,0,13849.72,13849.72,100651,Veolia E S Cleanaway ( U K ) Ltd,Multiple waste types managed
+"Factory Lane Special Waste Transfer Station, London",51.3774419,-0.1146964,Waste transfer (household and commercial),HIC,200000,19736,16400.96,-3335.04,83163,Veolia E S ( U K) Limited,Multiple waste types managed
+"Kimpton Park Way H R R C, London",51.3781054,-0.2073165,Household Reuse and Recycling Centres,HIC,24999,13912.36,12963.74,-948.62,83617,Veolia E S ( U K) Limited,Multiple waste types managed
+"56-58 Factory Lane, London",51.3784093,-0.1158733,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,14255.21,5621.29,-8633.92,402297,Blu-3 ( U K) Limited,Only one waste type managed (90%)
+"Beddington Farmlands Landfill Site, London",51.3798699,-0.1529652,Disposal,HIC,990000,297674.49,300466.68,2792.19,VP3039SW,Viridor Waste Management Limited,Multiple waste types managed
+"Greenham Triangle, London",51.3833525,-1.3157724,Other,Inert,47700,0,12397.5,12397.5,400621,Lyons Francis,Multiple waste types managed
+"Waldens Depot, London",51.3837341,0.1295744,"Transfer and treatment (construction, demolition and excavation)",Haz,74999,6.74,1.68,-5.06,19568,Syd Bishop & Sons ( Demolition ) Limited,Only one waste type managed (90%)
+"Garth Road Civic Amenity Site, London",51.3850737,-0.2277363,Household Reuse and Recycling Centres,HIC,25000,14593.99,12245.04,-2348.95,100632,Veolia E S ( U K ) Limited,Multiple waste types managed
+"Raven Recycling, London",51.3854579,-0.1325216,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,9601.21,5005.24,-4595.97,400696,Raven Waste Paper Company Ltd,Multiple waste types managed
+"Therapia Lane, Croydon, Cr0, London",51.3875968,-0.1287372,Metals and vehicle recycling,HIC,74999,0,21423.04,21423.04,83314,European Metal Recycling Ltd,Multiple waste types managed
+"777 Recycling Centre Ltd, London",51.387847,-0.140619,"Transfer and treatment (construction, demolition and excavation)",Inert,372600,28040.69,39768.33,11727.64,83473,777 Recycling Centre Ltd,Multiple waste types managed
+"B Nebbett & Son Limited, London",51.3898055,-0.1621521,Metals and vehicle recycling,HIC,109500,64374.78,52502.04,-11872.74,83476,European Metal Recycling Limited,Multiple waste types managed
+"George Killoughery Limited ( Mitcham), London",51.3921467,-0.1674833,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,33359.93,37430.36,4070.43,103821,George Killoughery Limited,Only one waste type managed (90%)
+"Bournewood Inert Landfill Site, London",51.393622,0.160181,Disposal,Inert,240000,0,51997.65,51997.65,210058,Bournewood Sand And Gravel Ltd,Multiple waste types managed
+"Peter Norris ( Haulage) Ltd, London",51.395062,0.108963,"Transfer and treatment (construction, demolition and excavation)",Inert,71000,39962.37,47371.96,7409.59,10014,Peter Norris ( Haulage ) Ltd,Multiple waste types managed
+"Maguire Skips, London",51.396072,-0.167028,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,29717.79,26808.62,-2909.17,102215,Maguire Skips Ltd,Only one waste type managed (90%)
+"Bromley Civic Amenity Site, London",51.398888,0.0353309,Household Reuse and Recycling Centres,HIC,25000,15433.52,16789.21,1355.69,83528,Veolia E S ( U K ) Ltd,Only one waste type managed (90%)
+"Waldo Road Waste Transfer Station, London",51.398911,0.035308,Waste transfer (household and commercial),HIC,187200,128972.86,127924.09,-1048.77,83236,Veolia E S ( U K ) Ltd,Only one waste type managed (90%)
+"Mitcham Transfer Station, London",51.4010025,-0.1754459,Waste transfer (household and commercial),HIC,275000,190320.16,253336.03,63015.87,83184,Shukco 347 Ltd,Only one waste type managed (90%)
+"Mitcham Site, London",51.402869,-0.166709,Waste transfer (household and commercial),HIC,75000,740.86,185.22,-555.64,402626,O C S Group U K Limited,Multiple waste types managed
+"Kingston Waste Transfer Station, London",51.4029807,-0.2902686,Waste transfer (household and commercial),HIC,200500,66473.17,66030.08,-443.09,83181,Viridor Waste Management Ltd,Only one waste type managed (90%)
+"Viridor Recycling Centre, London",51.4033712,-0.2905057,Waste transfer (household and commercial),HIC,240000,78781.3,91923.38,13142.08,83441,Viridor Waste ( Thames ) Ltd,Only one waste type managed (90%)
+"Churchfields Transfer Station, London",51.4047636,-0.0473034,Waste transfer (household and commercial),HIC,75000,21178.67,18705.11,-2473.56,83235,Veolia E S ( U K ) Ltd,Only one waste type managed (90%)
+"Foots Cray Depot Refuse & Recycling Centre, London",51.417915,0.119407,Household Reuse and Recycling Centres,HIC,74999,12513.4,11627.91,-885.49,19564,Bexley London Borough Council,Multiple waste types managed
+"Henry Woods Waste Management Ltd, London",51.4199627,-0.2041508,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,8150,11969,3819,103698,Henry Woods Waste Management Ltd,Only one waste type managed (90%)
+"Sydenham Scrap Metals Ltd, London",51.4240302,-0.0360283,Metals and vehicle recycling,Haz,74999,985,288.25,-696.75,102103,Sydenham Scrap Metals Ltd,Only one waste type managed (90%)
+"Sydenham Road, London",51.4257139,-0.0466444,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,19937.93,24493.81,4555.88,102495,H Sivyer ( Transport ) Ltd,Only one waste type managed (90%)
+"Latham Recycling Centre Ltd, London",51.4266812,-0.0338728,Waste transfer (household and commercial),HIC,110000,36330.74,37542.66,1211.92,83321,Lathams Recycling Centre Limited,Only one waste type managed (90%)
+"West Norwood Car Breakers, London",51.4293837,-0.0988524,Metals and vehicle recycling,Haz,74999,138,91,-47,102052,Kiernan Bill,Only one waste type managed (90%)
+"Weir Road Waste Transfer Station, London",51.4309629,-0.1902386,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,45415.04,31601.59,-13813.45,400311,Maguire Skips Limited,Only one waste type managed (90%)
+"Vale Street Civic Amenity Centre, London",51.4317475,-0.0940543,Household Reuse and Recycling Centres,HIC,75000,2309.45,2198.32,-111.13,83253,London Borough of Lambeth,Only one waste type managed (90%)
+"Mcgovern House, London",51.4327485,-0.0935479,Fuel preparation and MBT,HIC,75000,4,1,-3,403204,The Wet Waste Company Limited,Only one waste type managed (90%)
+"L M D Waste Management Limited, London",51.4383799,-0.1902903,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,14503,4548.75,-9954.25,402208,L M D Waste Management Limited,Only one waste type managed (90%)
+"77 Weir Road, London",51.4384748,-0.1898725,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,43150.8,28879.72,-14271.08,400856,N J B Recycling Limited,Only one waste type managed (90%)
+"Goldstar Commercials, London",51.4412148,-0.5363554,Metals and vehicle recycling,Haz,75000,60.05,122.46,62.41,100789,Metal Recovery Solutions Limited,Only one waste type managed (90%)
+"Richmond Park Golf Club, London",51.4417458,-0.2434592,Other,Inert,142500,0,24140,24140,104458,Oakland Golf And Leisure Limited,Multiple waste types managed
+"Plot 39 Bedfont Tranding Estate, London",51.453461,-0.437216,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,0,23739.62,23739.62,104079,Fowles Crushed Concrete Ltd,Multiple waste types managed
+"Fowles Crushed Concrete Limited, London",51.4566933,-0.5588665,"Transfer and treatment (construction, demolition and excavation)",Inert,182500,0,31815.18,31815.18,80741,Fowles Crushed Concrete Ltd,Multiple waste types managed
+"Barking Materials Recycling Facility, London",51.4573494,-0.1044878,Materials recycling and sorting,HIC,74999,47406.45,46485.68,-920.77,101756,Suez Recycling And Recovery U K Ltd,Only one waste type managed (90%)
+"Thames Road Depot, London",51.4574371,0.201906,Household Reuse and Recycling Centres,HIC,74999,44466.23,43455.68,-1010.55,19563,Bexley London Borough Council,Only one waste type managed (90%)
+"Anchor Bay Commercial Haulage Waste Treatment Facility, London",51.4589808,0.1939774,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,32443.48,31544.27,-899.21,104136,"Mr George Dugdale, Mr Mark Dugdale And Mr Steven Dugdale",Only one waste type managed (90%)
+"St Albans Farm Recycling Facility ( Ron Smith), London",51.460257,-0.396945,"Transfer and treatment (construction, demolition and excavation)",Inert,221416,71202.37,92918.25,21715.88,80063,Ron Smith ( Recycling ) Ltd,Multiple waste types managed
+"Mogden Sewage Treatment Works, London",51.4613118,-0.3414585,Other,HIC,250000,99979.33,48691.82,-51287.51,100679,Thames Water Utilities Ltd,Only one waste type managed (90%)
+"Wandsworth Transfer Station, London",51.4625548,-0.191276,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,20731.3,20716.18,-15.12,83393,Shukco 347 Ltd,Only one waste type managed (90%)
+"W Riverside S W T S , Smugglers Way, Sw18, London",51.4628999,-0.1895057,Waste transfer (household and commercial),HIC,893637,219846.42,219853.66,7.24,83283,Cory Environmental Ltd,Only one waste type managed (90%)
+"Space Waye Civic Amenity Site, London",51.4634037,-0.4099045,Household Reuse and Recycling Centres,HIC,82000,16179.58,16128.71,-50.87,80527,Hounslow London Borough Council,Only one waste type managed (90%)
+"Belinda Road ( Brixton) Waste Transfer Facility, London",51.464887,-0.10412,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,35838,35998.79,160.79,83255,Powerday Plc,Only one waste type managed (90%)
+"Veolia Inert Soils Coldharbour Lane, London",51.4656441,-0.1029496,"Transfer and treatment (construction, demolition and excavation)",Inert,400000,112673.31,113168.32,495.01,80768,Veolia E S Landfill Ltd,Only one waste type managed (90%)
+"Metropolitan Waste Management Ltd, London",51.4702998,-0.155939,Waste transfer (household and commercial),HIC,262600,0,47825.18,47825.18,83228,Metropolitan Waste Management Ltd,Multiple waste types managed
+"European Metal Recycling, London",51.4719557,-0.1387635,Metals and vehicle recycling,HIC,276960,110988.38,108469.1,-2519.28,83229,European Metal Recycling Ltd,Only one waste type managed (90%)
+"Day Aggregates Stewarts Lane Depot, London",51.47381,-0.144061,"Transfer and treatment (construction, demolition and excavation)",Inert,35000,0,5923.1,5923.1,103456,Day Group Ltd,Multiple waste types managed
+"Townmead Civic Amenity Site, London",51.4752831,-0.274626,Household Reuse and Recycling Centres,HIC,75000,17776.19,19371.66,1595.47,83209,Richmond Upon Thames London Borough Council,Only one waste type managed (90%)
+"Anchor Bay Wharf, London",51.4779448,0.1908761,Other,Inert,74999,0,723,723,103948,Erith Remediation Technologies Limited,Multiple waste types managed
+"M & R Building & Landscaping Ltd, London",51.4779536,0.21405,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,5850.27,1537.42,-4312.85,402861,M & R Building & Landscaping Ltd,Multiple waste types managed
+"Toulouse Plant Hire Ltd, London",51.4783857,-0.0173921,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,75445.66,72303.39,-3142.27,83248,Toulouse Plant Hire Ltd,Only one waste type managed (90%)
+"Northern Line Extension Project, London",51.4799435,-0.1414236,"Transfer and treatment (construction, demolition and excavation)",Inert,249999,67343,16835.75,-50507.25,403036,Laing O Rourke Infrastructure Limited,Only one waste type managed (90%)
+"Scrapco Metal Recycling Ltd, London",51.480778,0.212142,Metals and vehicle recycling,Inert,74999,26845.9,30668.2,3822.3,101450,Scrapco Metal Recycling Ltd,Multiple waste types managed
+"Bulk Waste Recycling Facility, London",51.4819672,-0.0580691,Waste transfer (household and commercial),HIC,730000,198389.04,178517.68,-19871.36,80689,Londonenergy Ltd,Only one waste type managed (90%)
+"Greenwich Intergrated Waste Management Facility, London",51.4820124,-0.0576302,Waste transfer (household and commercial),HIC,411000,44183.91,56429.37,12245.46,83498,Veolia E S Cleanaway ( U K ) Ltd,Only one waste type managed (90%)
+"C & G Demolition & Site Clearance Ltd, Mercury Way, Se14, London",51.4823172,-0.0461109,"Transfer and treatment (construction, demolition and excavation)",Inert,42900,31735.54,27963.3,-3772.24,83257,C & G Demolition & Site Clearance Ltd,Only one waste type managed (90%)
+"Waste Transfer Station, London",51.4824067,-0.1411696,"Transfer and treatment (construction, demolition and excavation)",Inert,100000,67135.27,69012,1876.73,80036,Space Rubbish Limited,Only one waste type managed (90%)
+"Economic Skips Ltd, Mercury Way, Se14, London",51.4824667,-0.0463684,"Transfer and treatment (construction, demolition and excavation)",Inert,135460,44319.62,39969.52,-4350.1,83258,Economic Skips Ltd,Only one waste type managed (90%)
+"Thames Wharf, London",51.4828849,-0.2233039,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,68256,82501.5,14245.5,100813,Keltbray Environmental Ltd,Only one waste type managed (90%)
+"Cranford Lane T S, Heathrow, London",51.484399,-0.3935787,Waste transfer (household and commercial),HIC,74999,469.2,1036.54,567.34,80042,Heathrow Airport Ltd,Only one waste type managed (90%)
+"Unit 1, Stockholm Road, London",51.4850139,-0.0508448,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,49122.03,52327.34,3205.31,104283,R T S Waste Management Limited,Only one waste type managed (90%)
+"Ilderton Waste, London",51.4851485,-0.0536855,"Transfer and treatment (construction, demolition and excavation)",Inert,49000,17907,11065.21,-6841.79,83475,Ilderton Waste,Only one waste type managed (90%)
+"Lewisham Recycling & Waste Reception Centre, Landmann Way, London",51.485202,-0.045808,Household Reuse and Recycling Centres,HIC,24999,5787.87,5421.13,-366.74,83355,London Borough of Lewisham,Only one waste type managed (90%)
+"SELCHP Energy Recovery Facility , London",51.485399,-0.046045,Thermal treatment,HIC,488000,444391.78,444453.34,61.56,NP3738SY,South East London Combined Heat and Power Limited,Only one waste type managed (90%)
+"Mayer Parry, Brentford, London",51.486073,-0.3101169,Metals and vehicle recycling,HIC,74999,67094.69,57493.58,-9601.11,80370,Mayer Parry Recycling Ltd,Only one waste type managed (90%)
+"Brentford Service Centre, London",51.4869409,-0.3237026,Waste transfer (household and commercial),HIC,25000,2887.79,2317.36,-570.43,100044,Rentokil Initial U K Limited,Multiple waste types managed
+"Sipson North East Inert Landfill, London",51.48952,-0.458351,Disposal (inert),Inert,1869000,343785,269657.25,-74127.75,80594,Henry Streeter ( Sand & Ballast ) Ltd,Only one waste type managed (90%)
+"Transport Avenue Transfer Station, London",51.489794,-0.3234824,Waste transfer (household and commercial),HIC,270000,246784.51,202873.93,-43910.58,80077,Suez Recycling And Recovery U K Ltd,Only one waste type managed (90%)
+"Brentford Aggregate Materials Recycling Facility, London",51.489794,-0.323482,"Transfer and treatment (construction, demolition and excavation)",Inert,600000,0,222697.74,222697.74,103193,Day Group Limited,Multiple waste types managed
+"32 Willow Lane, London",51.4901061,0.0591098,Waste transfer (household and commercial),Inert,22550,19146,15090.24,-4055.76,83456,L M D Waste Management Ltd,Only one waste type managed (90%)
+"Penhall Road Recycling Centre, London",51.4903768,0.0193142,Waste transfer (household and commercial),HIC,24999,10310.86,4303.44,-6007.42,401583,Recycled Material Supplies Limited,Only one waste type managed (90%)
+"Heathrow Depot, London",51.4907578,-0.3990284,"Transfer and treatment (construction, demolition and excavation)",Inert,300000,211732.84,88496.39,-123236.45,VP3630WE,FM Conway Ltd ,Only one waste type managed (90%)
+"Murphy's Wharf EPR/DP3490EU, London",51.4914992,0.0238812,Fuel preparation and MBT,Inert,649999,261983,65495.75,-196487.25,HP3732WG,Day Group Limited,Multiple waste types managed
+"Quattro - Brentford, London",51.491621,-0.3022237,"Transfer and treatment (construction, demolition and excavation)",Inert,912000,87452.5,84254.68,-3197.82,80724,Quattro ( U K ) Ltd,Only one waste type managed (90%)
+"Assiciated Reclaimed Oils Bulking, Treatment and Transfer Facility EPR/WP3930UD, London",51.4918533,0.0077143,Materials recycling and sorting,Haz,185640,9179.01,8112.2,-1066.81,WP3930UD,Associated Reclaimed Oils Ltd,Only one waste type managed (90%)
+"Roll On Off Services Limited, London",51.49204,-0.0399116,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,8957.48,5955.39,-3002.09,401396,Roll On Off Services Limited,Only one waste type managed (90%)
+"Angerstein Wharf, London",51.4929706,0.0201944,"Transfer and treatment (construction, demolition and excavation)",Inert,83000,13062.18,7272.83,-5789.35,400933,Aggregate Industries U K Ltd,Only one waste type managed (90%)
+"Westminster Waste Ltd, London",51.4938166,0.0324272,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,56214.22,45394.24,-10819.98,103772,Westminster Waste Ltd,Only one waste type managed (90%)
+"Airlinks Golf Club, London",51.4943331,-0.3994911,Other - inert,Inert,248388,72981.5,182493.88,109512.38,400090,Oakland Golf And Leisure Limited,Only one waste type managed (90%)
+"Rainham Landfill EPR/EP3136GK, London",51.4955473,0.1914236,Disposal (inert),Inert,1700000,1216138.77,857940.64,-358198.13,EP3136GK,Veolia ES Landfill Limited,Multiple waste types managed
+"80 River Road, London",51.4964037,0.0104543,"Transfer and treatment (construction, demolition and excavation)",Inert,25000,22146.5,21012.6,-1133.9,100076,Clearun Recycling Limited,Only one waste type managed (90%)
+"Greenwich Transfer Station, London",51.49642,0.1060153,Waste transfer (household and commercial),HIC,311000,0,24863.33,24863.33,83511,Peter Norris ( Haulage) Limited,Multiple waste types managed
+"Victoria Deep Water Terminal, London",51.4973583,-0.0002726,"Transfer and treatment (construction, demolition and excavation)",Inert,800000,654538.07,661741.48,7203.41,101878,H Sivyer ( Transport) Limited,Only one waste type managed (90%)
+"Jighand Limited, London",51.5001537,0.0400182,Metals and vehicle recycling,Inert,30000,0,7950.98,7950.98,401634,Jighand Limited,Multiple waste types managed
+"London City Metals, London",51.5004129,0.0559217,Metals and vehicle recycling,Inert,74999,0,11782.2,11782.2,103174,London City Metals Ltd,Multiple waste types managed
+"Proper Oils , London",51.500823,-0.389197,Materials recycling and sorting,HIC,999999,0,63.58,63.58,VP3932CU,Proper Energy Limited,Multiple waste types managed
+"Mohawk Wharf Recycling Facility, London",51.5014007,0.0399174,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,0,52640.5,52640.5,101242,Keltbray A W S Limited,Multiple waste types managed
+"Orion Support Services, London",51.501734,0.0274811,"Transfer and treatment (construction, demolition and excavation)",Inert,150000,41334.01,25040.28,-16293.73,401256,Orion Support Services Limited,Only one waste type managed (90%)
+"Recycled Material Supplies, London",51.5018182,0.0241709,"Transfer and treatment (construction, demolition and excavation)",Inert,230000,180390,140286.62,-40103.38,104575,Recycled Material Supplies Ltd,Only one waste type managed (90%)
+"Hayes Transfer Station, London",51.503046,-0.4206713,Waste transfer (household and commercial),HIC,375950,0,824.33,824.33,80025,Suez Recycling And Recovery Uk Ltd,Multiple waste types managed
+"B & P Scrap Co Ltd, London",51.5030544,0.2261774,Other,Haz,74999,0,4286.46,4286.46,101699,B & P Scrap Co Ltd,Multiple waste types managed
+"Upside Railway Yard, London",51.5031653,-0.1123051,"Transfer and treatment (construction, demolition and excavation)",Inert,249999,234930.04,83554.99,-151375.05,400425,G B Railfreight Limited,Only one waste type managed (90%)
+"Williams Environmental Management Ltd, London",51.5031986,0.0376727,Other,Haz,25000,5399.65,4804.92,-594.73,WP3336SA,Williams Environmental Management Ltd,Only one waste type managed (90%)
+"Victoria Road Waste Transfer Station, London",51.5037423,-0.4748694,Waste transfer (household and commercial),HIC,734984,186477.33,126864.39,-59612.94,400834,Suez Recycling And Recovery U K Ltd,Only one waste type managed (90%)
+"RIVERSIDE RESOURCE RECOVERY, London",51.504595,0.155259,Thermal treatment,HIC,785000,738555.88,717689.36,-20866.52,BK0825IU,Riverside Resource Recovery Limited,Only one waste type managed (90%)
+"Creek Road Transfer Station, London",51.5046597,-0.0064129,Waste transfer (household and commercial),Inert,106250,0,2137.57,2137.57,80098,Euro Waste Barking Limited,Multiple waste types managed
+"Docklands Wharf Transfer Station, London",51.5056229,0.0139307,"Transfer and treatment (construction, demolition and excavation)",Inert,414700,66444.4,66379.61,-64.79,80525,Multi Services Kent Limited,Only one waste type managed (90%)
+"Volker Highways Depot, London",51.505769,-0.1007404,"Transfer and treatment (construction, demolition and excavation)",Inert,24999,0,7472,7472,104047,Volker Highways Limited,Multiple waste types managed
+"Mr Andrew Davis, London",51.5063066,-0.0858852,Other,Inert,99999,0,6938.3,6938.3,102801,Davis Andrew,Multiple waste types managed
+"Brewsters, Dock Road, London",51.5065426,0.0125609,"Transfer and treatment (construction, demolition and excavation)",Inert,275000,89588,43346,-46242,80781,Brewsters Waste Management Ltd,Multiple waste types managed
+"X - Bert Haulage, London",51.5073509,-0.1277583,"Transfer and treatment (construction, demolition and excavation)",Inert,382500,103035,99779.75,-3255.25,80588,X - Bert Haulage Limited,Only one waste type managed (90%)
+"Tripcock Point , London",51.5088886,0.0920615,Disposal,Haz,250000,0,107.96,107.96,EP3135PE,Tilfen Land Limited,Multiple waste types managed
+"P M Highway Ltd, London",51.5090981,-0.1221424,Other,Inert,74999,0,3800,3800,104182,P M Highway Ltd,Multiple waste types managed
+"Rainham Recycling Facility, London",51.50951,0.1791974,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,0,7767.68,7767.68,401196,Brett Aggregates Limited,Multiple waste types managed
+"Car Spares Of West Drayton Limited, London",51.5100432,-0.4609361,Metals and vehicle recycling,HIC,24999,0,8689.13,8689.13,80537,Car Spares Of West Drayton Limited,Multiple waste types managed
+"Cory, Walbrook Wharf, London",51.5104872,-0.0916492,Waste transfer (household and commercial),HIC,171080,54670.01,54438.4,-231.61,80359,Cory Environmental Ltd,Only one waste type managed (90%)
+"Beckton S T W Combined Heat And Power Plant, London",51.5104929,0.067811,Thermal treatment,HIC,999999,311.8,77.95,-233.85,400177,Thames Water Utilities Limited,Only one waste type managed (90%)
+"Ecotech London Limited, London",51.5117594,0.1723394,Waste transfer (household and commercial),HIC,75000,3980.14,8298.94,4318.8,80734,Ecotech London Ltd,Only one waste type managed (90%)
+"Rainham Eazystore Ltd, London",51.5118726,0.1792315,Materials recycling and sorting,Haz,74999,0.26,0.16,-0.1,102861,Rainham Eazystore Limited,Only one waste type managed (90%)
+"Ingrebourne Links, London",51.5123315,0.2237347,Other - inert,Inert,600000,105188,894346.25,789158.25,101917,Ingrebourne Valley Ltd,Only one waste type managed (90%)
+"South Hall Farm, London",51.5123813,0.2053388,Disposal,Inert,260000,0,4531.5,4531.5,80524,Havering Aggregates Limited,Multiple waste types managed
+"Stockley Pines Golf Course (10th Hole), London",51.5132752,-0.4440025,Other - inert,Inert,23810,30484,7621,-22863,402093,Premier Material Supplies Limited,Only one waste type managed (90%)
+"Sams Yard, London",51.514111,0.185954,Other,Haz,74999,200.79,205.38,4.59,103594,Sams Yard Ltd,Only one waste type managed (90%)
+"A & J Plumbing & Heating London Ltd, London",51.5149242,-0.3371981,Metals and vehicle recycling,Inert,24999,188,150.9,-37.1,103439,A & J Plumbing & Heating London Ltd,Only one waste type managed (90%)
+"D S Smith Recycling U K Ltd, London",51.515189,-0.201221,Waste transfer (household and commercial),HIC,74999,100.13,1961.68,1861.55,102933,D S Smith Recycling U K Ltd,Only one waste type managed (90%)
+"Cronimet ( London) Ltd, London",51.5153053,0.0996253,Metals and vehicle recycling,Inert,74999,9193.07,7276.13,-1916.94,103650,Cronimet ( London ) Limited,Only one waste type managed (90%)
+"Plasterzone, London",51.5157333,0.1046688,Materials recycling and sorting,Inert,30000,598.11,149.53,-448.58,403490,Plasterzone Limited,Only one waste type managed (90%)
+"Van Dalen Dagenham, London",51.5157874,0.1454032,Other,HIC,150000,0,60524.09,60524.09,80620,Van Dalen U K Ltd,Multiple waste types managed
+"Units 4-10 Atcost Road EPR/EP3494VG, London",51.5161758,0.1042967,Storage,Haz,16500,4702.62,1175.66,-3526.96,EP3531AP,Wastecare Limited,Multiple waste types managed
+"Manns Waste Management Ltd, London",51.5164844,0.1459763,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,42290,47722.6,5432.6,101645,Manns Waste Management Ltd,Multiple waste types managed
+"Wastecare - Barking, London",51.5166578,0.1048771,Waste transfer (household and commercial),Haz,25000,4612.2,5858.54,1246.34,101134,Wastecare Limited,Multiple waste types managed
+"Stone Terminal, London",51.516929,-0.26691,"Transfer and treatment (construction, demolition and excavation)",Inert,140000,70959.33,59073.63,-11885.7,80617,Aggregate Industries U K Ltd,Only one waste type managed (90%)
+"Thunderer Road, London",51.5173801,0.1399565,Fuel preparation and MBT,Inert,175000,60231,15057.75,-45173.25,403070,Neptune Contract Services Limited,Multiple waste types managed
+"Rainham M R F, London",51.517732,0.194831,Materials recycling and sorting,HIC,682440,137027.87,98258.38,-38769.49,80704,Veolia E S Cleanaway ( U K ) Ltd,Only one waste type managed (90%)
+"Mayer Parry, Bidder Street, London",51.5179564,0.0033647,Metals and vehicle recycling,HIC,150000,108475.95,87544.19,-20931.76,80125,Mayer Parry Recycling Ltd,Only one waste type managed (90%)
+"Quick Skips London, London",51.518001,-0.007245,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,4790.6,3137.51,-1653.09,104011,Quick Skips London Limited,Only one waste type managed (90%)
+"Day Aggregates, London",51.518008,-0.267434,"Transfer and treatment (construction, demolition and excavation)",Inert,649999,44038,168756.75,124718.75,83515,Day Group Limited,Multiple waste types managed
+"75 - 77 Chequers Lane, London",51.5180189,0.1446672,"Transfer and treatment (construction, demolition and excavation)",Inert,170256,32082.6,27903.9,-4178.7,80583,R White Waste Management Ltd,Only one waste type managed (90%)
+"I O D Skip Hire Ltd, London",51.5182718,0.0043896,"Transfer and treatment (construction, demolition and excavation)",Inert,350000,53307.66,66056.37,12748.71,80515,IOD Skip Hire Ltd,Multiple waste types managed
+"Barking Riverside Development Park, London",51.51862,0.118781,"Transfer and treatment (construction, demolition and excavation)",Inert,249999,44254,43130,-1124,101679,Muckit Recycling Limited,Only one waste type managed (90%)
+"Mc Grath Bros ( Waste Control), London",51.5187407,0.0969118,"Transfer and treatment (construction, demolition and excavation)",Inert,480000,312023.2,246932.8,-65090.4,80535,Mc Grath Brothers ( Waste Control) Ltd,Multiple waste types managed
+"Remet Canning Town, Cody Road, London",51.5202216,-0.003418,Metals and vehicle recycling,Inert,74999,64603.76,41712.47,-22891.29,80115,The Remet Company Ltd,Multiple waste types managed
+"Kilnbridge Construction Services Ltd, London",51.5203064,-0.0024197,"Transfer and treatment (construction, demolition and excavation)",Inert,100310,40453.81,46941.98,6488.17,80625,Kilnbridge Construction Services Ltd,Only one waste type managed (90%)
+"Bywaters (1986) Limited, London",51.5223204,-0.006472,Household Reuse and Recycling Centres,HIC,418285,66625.27,70600.88,3975.61,80147,Bywaters (1986) Limited,Multiple waste types managed
+"Wandsworth Road Goods Yard, London",51.5228932,-0.0757181,Waste transfer (household and commercial),HIC,182000,6979.26,2565.53,-4413.73,83668,Cory Environmental Ltd,Only one waste type managed (90%)
+"Greenford Depot Civic Amenity Site, London",51.5237271,-0.350475,Household Reuse and Recycling Centres,HIC,37500,14837.77,15251.39,413.62,80031,Ealing London Borough Council,Only one waste type managed (90%)
+"Pinns Wharf Ltd, London",51.5237482,0.0954844,Other,Inert,1000000,90265,101805.72,11540.72,104912,Pinns Wharf Ltd,Only one waste type managed (90%)
+"Barking Waste Transfer And Recycling Facility, London",51.523972,0.0795826,Waste transfer (household and commercial),HIC,160250,119022.37,102960.16,-16062.21,80109,Biffa Waste Services Ltd,Only one waste type managed (90%)
+"S U C Exc Uk Ltd, London",51.5242568,0.1345761,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,44391,37664.26,-6726.74,104126,S U C Exc U K Ltd,Only one waste type managed (90%)
+"Quattro Park Royal, London",51.5244021,-0.2568603,"Transfer and treatment (construction, demolition and excavation)",Inert,438000,82304.49,103320.63,21016.14,80595,Quattro ( U K ) Ltd,Only one waste type managed (90%)
+"E L G Haniel Metals Ltd, London",51.5244519,0.0950868,Metals and vehicle recycling,HIC,74999,16128,15984.25,-143.75,400638,E L G Haniel Metals Limited,Multiple waste types managed
+"Greenford Depot, London",51.524517,-0.353438,Waste transfer (household and commercial),HIC,75000,20862.4,20598.34,-264.06,80032,London Borough of Ealing Council,Only one waste type managed (90%)
+"Edwards Waste Recycling - Barking, London",51.5248264,0.1084817,Waste transfer (household and commercial),HIC,74999,79890,75939.5,-3950.5,80765,Edwards Waste Paper Ltd,Only one waste type managed (90%)
+"Scrubs Lane, Willesden, London",51.5250132,-0.234005,"Transfer and treatment (construction, demolition and excavation)",HIC,244305,27186.2,41871.69,14685.49,80019,J Simpson Waste Management Ltd,Multiple waste types managed
+"19 Thames Road, London",51.5253738,0.1020937,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,8410,3852.5,-4557.5,402252,Max Recycling Ltd,Only one waste type managed (90%)
+"Dagenham Dock Aggregate Recycling Facility, London",51.5262269,0.1461168,"Transfer and treatment (construction, demolition and excavation)",Inert,249999,428.72,576.26,147.54,401033,Hanson Quarry Products Europe Ltd,Only one waste type managed (90%)
+"Mardyke Farm, London",51.5265249,0.1660352,Disposal,Inert,452176,0,2220.94,2220.94,80124,Ebbcliffe Ltd,Multiple waste types managed
+"Willesden Freight Terminal, London",51.5265773,-0.247981,"Transfer and treatment (construction, demolition and excavation)",Inert,500000,661789.64,421368.34,-240421.3,104421,L Lynch ( Plant Hire & Haulage ) Ltd,Only one waste type managed (90%)
+"Scrubs Lane Metal Recycling Site, London",51.526955,-0.235352,Materials recycling and sorting,Inert,25000,24972.92,6243.23,-18729.69,401860,Capital Metal Recycling Ltd,Only one waste type managed (90%)
+"Jenkins Lane WM Facility EPR/WP3433BY, London",51.5280049,0.0765988,Fuel preparation and MBT,HIC,337000,220337.91,210147.06,-10190.85,WP3433BY,Shanks Waste Management Limited,Only one waste type managed (90%)
+"ACTON REFINERY, London",51.5280364,-0.2582087,Metals and vehicle recycling,HIC,999999,1.47,0.9,-0.57,BM1741IS,Vale Europe Limited,Only one waste type managed (90%)
+"G & S Tyre Services Ltd, London",51.528333,0.088597,Waste transfer (household and commercial),HIC,74999,528.54,420.73,-107.81,102554,G & S Tyre Services Ltd,Only one waste type managed (90%)
+"Horn Lane Waste Transfer Station, London",51.52962,-0.247096,"Transfer and treatment (construction, demolition and excavation)",Inert,17000,0,15472.75,15472.75,80060,Quattro ( U K ) Limited,Multiple waste types managed
+"Alfreds Way, Barking, London",51.5297141,0.091756,Metals and vehicle recycling,Inert,109500,14097.21,9885.99,-4211.22,80111,Creek Metals Limited,Only one waste type managed (90%)
+"Humphries Ltd, London",51.530105,-0.09715,Metals and vehicle recycling,HIC,74999,109509.11,59565.4,-49943.71,103643,S Norton & Co Ltd,Multiple waste types managed
+"Land Adjoining Bramble Lane Fishing Lakes, London",51.5301205,0.2560146,Other - inert,Inert,50000,8797.9,2382.32,-6415.58,400952,Gibson Ian,Only one waste type managed (90%)
+"Unit 5, London",51.5315014,-0.0687538,"Transfer and treatment (construction, demolition and excavation)",Inert,75000,804,373,-431,401238,U K And European Construction Limited,Only one waste type managed (90%)
+"Cannon Hygeine Barking Waste Facility, London",51.5319354,0.1041466,Waste transfer (household and commercial),HIC,74999,263.8,65.95,-197.85,402973,O C S Group U K Limited,Multiple waste types managed
+"Albion Yard, London",51.5324452,-0.1215671,Metals and vehicle recycling,Haz,15500,8225.54,8519.01,293.47,83233,Vinton Metals Ltd,Only one waste type managed (90%)
+"Barbers Road Facility, London",51.532669,-0.014935,Other,HIC,150000,80475.37,51915.2,-28560.17,80107,Regional Waste Recycling ( Commercial) Limited,Multiple waste types managed
+"Little Gerpins 2 Landfill, London",51.5332022,0.2315669,Other - inert,Inert,306000,159320,44678.25,-114641.75,401833,Ingrebourne Valley Limited,Only one waste type managed (90%)
+"Land At Unit 1, London",51.533396,-0.259717,Metals and vehicle recycling,Haz,24999,0,512.5,512.5,83482,Pick A Part Ltd,Multiple waste types managed
+"Alperton Lane Waste TS EPR/LP3037WG, London",51.5339283,-0.3044616,Fuel preparation and MBT,Inert,150000,85333.3,21333.32,-63999.98,LP3037WG,O'Donovan (Waste Disposal) Limited,Only one waste type managed (90%)
+"J B Riney & Co Ltd, London",51.5343063,-0.0200307,"Transfer and treatment (construction, demolition and excavation)",Inert,49999,37710,34773.75,-2936.25,80137,J B Riney & Co Ltd,Only one waste type managed (90%)
+"Twyford Waste Transfer Station, London",51.534673,-0.2775277,Waste transfer (household and commercial),HIC,74999,38628.58,38061.68,-566.9,80078,West London Waste Authority,Only one waste type managed (90%)
+"Marshgate Sidings, London",51.5361281,-0.015134,"Transfer and treatment (construction, demolition and excavation)",Inert,700000,257436.94,192567.56,-64869.38,100245,D B Schenker Rail ( U K) Limited,Only one waste type managed (90%)
+"Thames Materials, London",51.5363239,-0.4906828,"Transfer and treatment (construction, demolition and excavation)",Inert,500000,262394.08,116312.98,-146081.1,401566,Thames Materials Limited,Only one waste type managed (90%)
+"Gerpins Lane Reuse & Recycling Centre, London",51.5365395,0.2392451,Household Reuse and Recycling Centres,HIC,115500,16210.81,24912.64,8701.83,80090,E L W A Ltd,Only one waste type managed (90%)
+"Barking Riverside ( Resource Information And Marketing Suite), London",51.536563,0.075766,Other - inert,Inert,200000,0,5661,5661,103229,Foundation Developments Limited,Multiple waste types managed
+"Brent Transfer Station, London",51.5369275,-0.2783835,Waste transfer (household and commercial),HIC,364000,30972.89,99959.4,68986.51,80379,Veolia E S ( U K ) Limited,Only one waste type managed (90%)
+"Central Depot, London",51.5384739,-0.1353321,Waste transfer (household and commercial),HIC,60000,16945.58,19208.92,2263.34,400101,London Borough of Richmond Upon Thames,Only one waste type managed (90%)
+"Reuse Collections, Dagenham, London",51.53889,0.14743,"Transfer and treatment (construction, demolition and excavation)",Inert,250000,0,42379.85,42379.85,80120,U R M ( U K ) Limited,Multiple waste types managed
+"Unit 7, Abbey Industrial Estate, London",51.5394373,-0.2918819,Other,Haz,24999,62.02,29.43,-32.59,401409,Wandle Waste Management Limited,Multiple waste types managed
+"Barking Transfer Station, London",51.5395507,0.0809453,Waste transfer (household and commercial),HIC,182500,169155.12,109449.8,-59705.32,80572,Shukco 347 Ltd,Only one waste type managed (90%)
+"Bilton Road M R F, London",51.5400437,-0.3153667,Materials recycling and sorting,HIC,49500,0,4.35,4.35,102678,Viridor Waste Management Ltd,Multiple waste types managed
+"British Rail Goods Yard, London",51.5404288,-0.127385,"Transfer and treatment (construction, demolition and excavation)",Inert,150000,0,7044.5,7044.5,80571,Iver Recycling ( U K) Ltd,Multiple waste types managed
+"Willesden Depot, London",51.542988,-0.234338,Metals and vehicle recycling,HIC,419000,156576.65,136115.23,-20461.42,80371,European Metal Recycling Limited,Multiple waste types managed
+"Former Jewson Site, London",51.5460127,-0.1410322,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,20840.62,8554.4,-12286.22,401394,Westminster Waste Limited,Multiple waste types managed
+"Holloway Lane Materials Recycling Facility, London",51.5496209,-0.1163578,"Transfer and treatment (construction, demolition and excavation)",HIC,149999,92612.16,98059.72,5447.56,80564,Iver Recycling ( U K) Limited,Only one waste type managed (90%)
+"London Auto Parts Limited, London",51.5496232,-0.1081271,Metals and vehicle recycling,Haz,24999,12614,12848.75,234.75,80603,London Auto Parts Ltd,Multiple waste types managed
+"Neasden Goods Yard, London",51.5523357,-0.2484961,Waste transfer (household and commercial),Inert,206225,0,156.25,156.25,80018,Metal & Waste Recycling Ltd,Multiple waste types managed
+"Mitre Works, London",51.552526,-0.249187,Metals and vehicle recycling,HIC,83600,16104.31,21571.56,5467.25,80743,Metal And Waste Recycling Limited,Multiple waste types managed
+"Glynn Skips, London",51.554778,-0.2506872,"Transfer and treatment (construction, demolition and excavation)",Inert,201500,27103,27354.75,251.75,80035,X- Bert Haulage Ltd,Multiple waste types managed
+"Seneca Environmental Solutions Ltd, London",51.5567077,-0.2620297,Other,HIC,400000,0,81520.21,81520.21,102114,Seneca Environmental Solutions Ltd,Multiple waste types managed
+"Unit 4 Second Way, London",51.5573043,-0.2730803,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,54602,19138,-35464,402465,H A W K Rubbish Clearance Limited,Only one waste type managed (90%)
+"Frizlands Lane Reuse & Recycling Centre, London",51.5574998,0.1587204,Waste transfer (household and commercial),HIC,80000,13813.28,24419.06,10605.78,80105,ELWA Ltd,Only one waste type managed (90%)
+"Unit 2, Hannah Close, London",51.5577193,-0.2645691,Waste transfer (household and commercial),HIC,74999,0,5222.5,5222.5,101440,P J Carey ( Contractors ) Ltd,Multiple waste types managed
+"L & B Haulage, Neasden, London",51.5582773,-0.2658681,"Transfer and treatment (construction, demolition and excavation)",Inert,116250,5400,4578.75,-821.25,80361,L & B Haulage & Civil Engineering Contractors Ltd,Only one waste type managed (90%)
+"Kwik Body Works Ltd, London",51.5584835,0.063453,Metals and vehicle recycling,Haz,74999,27,26,-1,101486,Kwik Body Works Ltd,Only one waste type managed (90%)
+"Donoghue, Claremont Rd, London",51.5613931,-0.2143514,"Transfer and treatment (construction, demolition and excavation)",Inert,113760,111225.88,113781.38,2555.5,80294,P B Donoghue (Haulage & Plant Hire) Ltd,Only one waste type managed (90%)
+"Victoria Road, South Ruislip, London",51.562082,-0.4023905,Waste transfer (household and commercial),HIC,50000,0,38990.07,38990.07,80076,Dafcon Haulage Limited,Multiple waste types managed
+"G B N Services Ltd, London",51.563421,-0.015861,"Transfer and treatment (construction, demolition and excavation)",Inert,160000,31079.03,39631.77,8552.74,80072,G B N Services Ltd,Multiple waste types managed
+"Ruislip Depot Hazardous Waste Containment Bay, London",51.5635478,-0.4257816,Other - inert,Inert,224750,56276.56,57184.88,908.32,MP3834LG,Balfour Beatty Rail Projects Limited,Only one waste type managed (90%)
+"Hornsey Road Civic Amenity Site, London",51.5660817,-0.1213749,Household Reuse and Recycling Centres,HIC,152400,0,1276.96,1276.96,80721,LondonWaste Ltd,Multiple waste types managed
+"Pulse Environmental Limited, London",51.566247,-0.023797,Waste transfer (household and commercial),HIC,74999,9164.35,6005.73,-3158.62,400150,Pulse Environmental Limited,Only one waste type managed (90%)
+"Tipmaster Ltd, London",51.5669331,-0.0397497,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,3621.98,1763.73,-1858.25,102591,Tipmaster Limited,Only one waste type managed (90%)
+"T J Autos ( U K) Ltd, London",51.5670846,-0.0400367,Metals and vehicle recycling,Haz,74999,10.5,41.44,30.94,101430,T J Autos ( U K) Ltd,Only one waste type managed (90%)
+"Malby Waste Disposal Ltd, London",51.568787,-0.038151,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,9924.55,10142.22,217.67,80146,Dem'cy Contractors Ltd,Only one waste type managed (90%)
+"Crow Metals Ltd, London",51.5688812,0.160646,Metals and vehicle recycling,HIC,40000,11235.83,5143.18,-6092.65,104496,Crow Metals Ltd,Multiple waste types managed
+"Argall Metal Recycling Ltd, London",51.568925,-0.039479,Metals and vehicle recycling,HIC,75000,0,20879.39,20879.39,80756,Argall Metal Recycling Ltd,Multiple waste types managed
+"Kershire West Ruislip, London",51.5692168,-0.4348795,Waste transfer (household and commercial),Inert,24700,0,2084.16,2084.16,80550,Kershire Ltd,Multiple waste types managed
+"Hendon Waste Transfer Station, London",51.570541,-0.224436,Waste transfer (household and commercial),HIC,375600,142107.43,137324.62,-4782.81,80334,Londonenergy Ltd,Only one waste type managed (90%)
+"26/27 Claremont Way Ind Est, London",51.5706427,-0.2223704,Waste transfer (household and commercial),HIC,91000,60139,53932.25,-6206.75,80308,Mc Govern Haulage Ltd,Only one waste type managed (90%)
+"Scratchwood Quarry, London",51.5710731,-0.2384418,"Transfer and treatment (construction, demolition and excavation)",Inert,249000,131504.76,101034.38,-30470.38,102529,Quality Recycling Solutions Ltd,Only one waste type managed (90%)
+"Leyton Reuse & Recycling Centre, London",51.5732906,-0.0379653,Household Reuse and Recycling Centres,HIC,282624,2588.9,2602.7,13.8,80728,Waltham Forest London Borough Council,Multiple waste types managed
+"Unit 3 & 4, London",51.5764578,-0.0923153,Metals and vehicle recycling,HIC,30000,0,115.55,115.55,400999,Gowing Alan,Multiple waste types managed
+"Cranfield Golf Centre, London",51.5780744,0.1416499,Other - inert,Inert,1000000,54332,217298,162966,103294,Carzo Ltd,Only one waste type managed (90%)
+"Crows Nest Farm, London",51.5796443,-0.4485744,Organic treatment,HIC,24900,6650.66,7889.44,1238.78,80676,Country Compost Ltd,Only one waste type managed (90%)
+"B F A Recycling Ltd, London",51.5810018,-0.4651524,Metals and vehicle recycling,Inert,74999,60293,64868,4575,103857,B F A Recycling Ltd,Only one waste type managed (90%)
+"O' Donovan, Tottenham, London",51.5830565,-0.0638151,"Transfer and treatment (construction, demolition and excavation)",Inert,166920,123308,54029.13,-69278.87,80317,O' Donovan ( Waste Disposal ) Ltd,Only one waste type managed (90%)
+"New Years Green Lane Civic Amenity Site, London",51.5834676,-0.4695965,Household Reuse and Recycling Centres,HIC,75000,43255.8,34801.31,-8454.49,80043,London Borough of Hillingdon,Only one waste type managed (90%)
+"Forward Drive C A Site, Harrow, London",51.5892295,-0.327183,Household Reuse and Recycling Centres,HIC,74999,40367.87,35330.3,-5037.57,80039,London Borough of Harrow,Multiple waste types managed
+"Wallingford Road Recycling Facility, London",51.5944627,-0.1160886,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,5695,8723.75,3028.75,104532,Bally Skips Limited,Only one waste type managed (90%)
+"Chigwell Road Re-use & Recycling Centre, London",51.5983342,0.0424835,Household Reuse and Recycling Centres,HIC,28600,15280.57,20098.88,4818.31,80106,E L W A Ltd,Only one waste type managed (90%)
+"White Hart Lane, London",51.6032123,-0.0657389,Metals and vehicle recycling,Haz,74999,0,13773.25,13773.25,80607,Redcorn Ltd,Multiple waste types managed
+"Garman Road, London",51.6043129,-0.0512475,Waste transfer (household and commercial),HIC,86925,37453.81,34050.77,-3403.04,80300,Biffa Waste Services Ltd,Only one waste type managed (90%)
+"Civic Amenity Site, London",51.6065842,-0.1628166,Household Reuse and Recycling Centres,HIC,74999,7202.92,5931.45,-1271.47,80514,Londonenergy Ltd,Only one waste type managed (90%)
+"Redcorn, London",51.60792,-0.0557191,Metals and vehicle recycling,Haz,74999,39283,17634.25,-21648.75,103763,Redcorn Ltd,Only one waste type managed (90%)
+"Hunt Skips, Commercial Road, Edmonton, London",51.6100169,-0.07062,Waste transfer (household and commercial),Inert,25000,8719,12599.5,3880.5,80772,Hunt Christopher Joseph Thomas,Multiple waste types managed
+"Compost Plant, London",51.6127769,-0.0415581,Organic treatment,HIC,45000,16609.78,29276.28,12666.5,80714,LondonWaste Ltd,Only one waste type managed (90%)
+"Albert Works, London",51.6134849,-0.0499859,Metals and vehicle recycling,HIC,349000,0,167167.3,167167.3,80298,Metal & Waste Recycling Limited,Multiple waste types managed
+"Rooke & Co Ltd, Edmonton, London",51.613589,-0.062553,Metals and vehicle recycling,HIC,75000,3896.94,20523.46,16626.52,80326,End of Life Vehicle Ltd,Multiple waste types managed
+"Hep Oils, London",51.6137071,-0.4900181,Materials recycling and sorting,HIC,25000,5360.33,3873.18,-1487.15,100312,Hep Oils Limited,Only one waste type managed (90%)
+"Camden Plant, London",51.6138484,-0.0357154,Other,Haz,112112,206806,224407.5,17601.5,80355,Camden Plant Ltd,Only one waste type managed (90%)
+"Oakwood Plant Ltd, Edmonton, London",51.6160601,-0.0464389,"Transfer and treatment (construction, demolition and excavation)",Inert,40000,14428.3,11355.94,-3072.36,80316,Oakwood Plant Ltd,Only one waste type managed (90%)
+"A M I Waste, London",51.617256,-0.047905,"Transfer and treatment (construction, demolition and excavation)",Inert,111600,21974,25146.73,3172.73,80319,Tuglord Enterprises Ltd,Only one waste type managed (90%)
+"Winters Haulage, Oakleigh Road South, London",51.6196675,-0.1463267,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,0,28572.75,28572.75,80331,Winters Haulage Ltd,Multiple waste types managed
+"O' Doherty - Pegamoid, London",51.6197975,-0.0436897,"Transfer and treatment (construction, demolition and excavation)",Inert,325000,88636,74990.5,-13645.5,100204,J O Doherty Haulage Limited,Only one waste type managed (90%)
+"Enfield Community Recycling Centre, London",51.6268656,-0.0932818,Household Reuse and Recycling Centres,HIC,74999,16922.67,14214.04,-2708.63,80296,Suez Recycling And Recovery U K Limited,Multiple waste types managed
+"Kings Road Recycling Centre, London",51.6269263,0.0046047,Waste transfer (household and commercial),HIC,75000,2852.54,2078.09,-774.45,80155,Londonenergy Ltd,Only one waste type managed (90%)
+"Enfield Waste Management Facility, London",51.648461,-0.0285278,"Transfer and treatment (construction, demolition and excavation)",Inert,391280,49754.2,33939.82,-15814.38,80328,Powerday Plc,Multiple waste types managed
+"Brimsdown Precious Metal Recovery, London",51.652766,-0.028045,Metals and vehicle recycling,HIC,30000,4925.85,6075.12,1149.27,VP3430BN,Johnson Matthey Plc,Only one waste type managed (90%)
+"Crews Hill Transfer Station, London",51.654872,-0.030401,"Transfer and treatment (construction, demolition and excavation)",Inert,20000,18427,18572.25,145.25,80716,Enfield Skips Ltd,Only one waste type managed (90%)
+"Jute Lane, Brimsdown, London",51.6551926,-0.0299295,"Transfer and treatment (construction, demolition and excavation)",Inert,74999,15410.34,12481.59,-2928.75,80555,Greater London Waste Disposal Ltd,Only one waste type managed (90%)
+"Pressbay Ltd, London",51.6593836,-0.0298014,Metals and vehicle recycling,HIC,74999,37.21,38.69,1.48,80325,Pressbay Ltd,Only one waste type managed (90%)
+"Chase Farm Clinical Waste Treatment Facility, London",51.6665042,-0.1037689,Other,Haz,75000,0,1594.38,1594.38,80350,Tradebe Healthcare National Limited,Multiple waste types managed
+"Guy Lodge Farm, London",51.6818193,-0.0767655,Other,Inert,99999,0,9480,9480,104320,The London Composting Company Ltd,Multiple waste types managed
+"Yard 10 - 12 Hastingwood Trading Est, London",51.7497786,0.1554757,"Transfer and treatment (construction, demolition and excavation)",Inert,25000,10695.52,11247.98,552.46,100468,A & A Skip Hire Limited,Only one waste type managed (90%)
