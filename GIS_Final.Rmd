@@ -23,6 +23,7 @@ library(rgdal)
 library(tidyverse)
 library(broom)
 library(ggplot2)
+library(spdep)
 ```
 
 ## Including Plots
@@ -116,8 +117,8 @@ LondonWardsSF <- st_as_sf(LondonWardsBNG)
 attach(LondonWardsSF)
 newvar<-0
 recode<-function(variable){
-  newvar[variable>0]<-"Yes"
-  newvar[variable==0]<-"No"
+  newvar[variable>0]<-T
+  newvar[variable==0]<-F
   return(newvar)
 }
 LondonWardsBNG$WastepointCount_recode <- recode(WastepointCount)
@@ -132,7 +133,7 @@ tm_shape(LondonWardsBNG) +
 names(Pricedata) <- c("Code", "Value")
 Pricedata$Value <- as.numeric(Pricedata$Value)
 BroughOuterSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Outer London'),]
-BroughOuterSP <- as(BroughOuter,"Spatial")
+BroughOuterSP <- as(BroughOuterSF,"Spatial")
 BroughOuterSP <- spTransform(BroughOuterSP,BNG)
 BroughInnerSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Inner London'),]
 BroughInnerSP <- as(BroughInnerSF,"Spatial")
@@ -142,7 +143,7 @@ LondonWardsBNG@data <- data.frame(LondonWardsBNG@data,Pricedata[match(LondonWard
 WardsOUT <- LondonWardsBNG[BroughOuterSP,]
 WardsInner <- LondonWardsBNG[BroughInnerSP,]
 
-
+WardsOUTSF=st_as_sf(WardsOUT)
 chisq<-chisq.test(WardsInner$WastepointCount_recode,WardsOUT$WastepointCount_recode)
 
 

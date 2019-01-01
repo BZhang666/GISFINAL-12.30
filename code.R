@@ -58,8 +58,8 @@ LondonWardsSF$WastepointCount <- as.numeric(LondonWardsSF$WastepointCount)
 tm_shape(LondonWardsSF) +
   tm_polygons("WastepointCount_recode")
 
-WithWaste <- subset(WardsOUTSF, WastepointCount_recode > 0, select = c(NAME, Value,WastepointCount,WasteDensity))
-WithoutWaste<- subset(LondonWardsSF, WastepointCount_recode < 1, select = c(NAME, Value))
+WithWaste <- subset(WardsOUTSF, WastepointCount_recode== "Yes", select = c(NAME, Value,WastepointCount,WasteDensity))
+WithoutWaste<- subset(WardsOUTSF, WastepointCount_recode== "No", select = c(NAME, Value))
 
 
 
@@ -67,10 +67,10 @@ qplot(sample = Value, data = WithWaste)
 ggplot(WithoutWaste, aes(sample=Value))+stat_qq()
 
 t.test(WithWaste$Value,WithoutWaste$Value,paired = F)
-
-model1 <- lm(log(Value) ~ WastepointCount, data = WardsOUTSF)
+WardsOUTSF=st_as_sf(WardsOUT)
+model1 <- lm(log(Value) ~ WastepointCount, data = WithWaste)
 model1_res <- tidy(model1)
 summary(model1)
-
-
+WithWaste$model_final_res <- model1$residuals
+qtm(WithWaste, fill = "model_final_res")
 

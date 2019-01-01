@@ -1,2 +1,0 @@
-"0","WithWaste <- subset(WardsOUTSF, WastepointCount_recode > 0, select = c(NAME, Value,WastepointCount))"
-"0","WithoutWaste<- subset(WardsOUTSF, WastepointCount_recode < 1, select = c(NAME, Value))"
