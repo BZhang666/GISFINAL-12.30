@@ -80,19 +80,8 @@ WithWaste$model_final_res <- model1$residuals
 qtm(WithWaste, fill = "model_final_res")
 
 
-names(Pricedata) <- c("Code", "Value")
-Pricedata$Value <- as.numeric(Pricedata$Value)
-BroughOuterSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Outer London'),]
-BroughOuterSP <- as(BroughOuterSF,"Spatial")
-BroughOuterSP <- spTransform(BroughOuterSP,BNG)
-BroughInnerSF <- BroughBNGSF[which(BroughBNGSF$Inner_Outer =='Inner London'),]
-BroughInnerSP <- as(BroughInnerSF,"Spatial")
-BroughInnerSP <- spTransform(BroughInnerSP,BNG)
 
-WardsOUT <- LondonWardsSF[BroughOuterSF,]
-WardsInner <- LondonWardsBNG[BroughInnerSP,]
 
-WardsOUTSF=st_as_sf(WardsOUT)
 
 
 GWRbandwidth <- gwr.sel(Unemployment.rate.2013 ~ WasteDensity, data = LondonWardsSF,coords=cbind(x,y),adapt=T) 
@@ -103,3 +92,22 @@ LondonWardsSF$coefUnauthAbse<-results$WasteDensity
 tm_shape(LondonWardsSF) +
   tm_polygons(col = "coefUnauthAbse", palette = "RdBu")
 
+
+
+BluePlaquesSubPoints <- data.frame(WastepointBNG@coords[,1:2])
+#now run the dbscan analysis
+db <- fpc::dbscan(BluePlaquesSubPoints, eps = 1500, MinPts = 3)
+#now plot the results
+plot(db, BluePlaquesSubPoints, main = "DBSCAN Output", frame = F)
+plot(londonaggSP, add=T)
+db
+db$cluster
+
+
+Londoninone <- BroughBNGSF
+Londoninone$agg <- 1
+Londonagg <- Londoninone %>% group_by(Londoninone$agg) %>% summarise()
+londonaggSP <- as(Londonagg,"Spatial")
+qtm(londonaggSP)
+
+nni(WastepointBNG,win = "extent")
