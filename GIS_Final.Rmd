@@ -2,7 +2,9 @@
 title: "GIS_Part 3"
 author: "B.Z."
 date: "December 29, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -30,12 +32,9 @@ library(corrplot)
 
 Data setting up
 
-```{r pressure, echo=FALSE}
+```{r code1, echo=FALSE}
 
 BoroughMapSF <- read_shape("BoundaryData/england_lad_2011.shp", as.sf = TRUE)
-I_O_brough <- read.csv('Inner_Outer.csv')
-names(I_O_brough) <- c("Code", "Inner_Outer")
-BoroughMapSF <- merge(BoroughMapSF, I_O_brough, by.x = "code", by.y = "Code")
 LondonWards <- readOGR("WardsData/LondonWards.shp", layer="LondonWards")
 BoroughMap <- as(BoroughMapSF, "Spatial")
 Wastepoint <- geojson_read("point.geojson", what = "sp")
@@ -47,11 +46,10 @@ LondonWards <- as(LondonWardsSF,"Spatial")
 
 
 
-```{r pressure, echo=FALSE}
+```{r code2, echo=FALSE}
 tmap_mode('view')
 summary(Wastepoint)
 BNG = "+init=epsg:27700"
-WGS = "+init=epsg:4326"
 LondonWardsBNG <- spTransform(LondonWards,BNG)
 BoroughMapBNG <- spTransform(BoroughMap,BNG)
 BoroughBNGSF <- st_as_sf(BoroughMapBNG)
@@ -71,8 +69,8 @@ tm_shape(BoroughMapBNG) +
 Then we employed poly.counts funtion to count 
 
 
-```{r pressure, echo=FALSE}
-
+```{r code3, echo=FALSE}
+library(spatialEco)
 Londoninone <- BoroughBNGSF
 Londoninone$agg <- 1
 Londonagg <- Londoninone %>% group_by(Londoninone$agg) %>% summarise()
@@ -97,7 +95,7 @@ db
 ```
 
 
-```{r pressure, echo=FALSE}
+```{r code4, echo=FALSE}
 
 res <- poly.counts(WastepointBNG, LondonWardsBNG)
 LondonWardsBNG@data$WastepointCount<-res
@@ -113,7 +111,7 @@ tm_shape(LondonWardsBNG) +
 
 
 
-```{r code, echo=FALSE}
+```{r code5, echo=FALSE}
 coordsW <- coordinates(LondonWardsBNG)
 plot(LondonWardsBNG)
 LB_nb <- poly2nb(LondonWardsBNG, queen=T)
@@ -166,7 +164,7 @@ tm_shape(LondonWardsBNG) +
 ```
 
 
-```{r pressure, echo=FALSE}
+```{r code6, echo=FALSE}
 newvar<-0
 LondonWardsSF <- st_as_sf(LondonWardsBNG)
 attach(LondonWardsSF)
@@ -188,7 +186,7 @@ tm_shape(LondonWardsSF) +
 
 
 
-```{r pressure, echo=FALSE}
+```{r code7, echo=FALSE}
 newvar <- 0
 recode<-function(variable,high,medium,low){
   newvar[variable<=high]<-"High"
@@ -212,7 +210,7 @@ chisq$p.value
 ```
 
 
-```{r}
+```{r code8, echo=FALSE}
 WithWaste <- subset(LondonWardsSF, WastepointCount_recode== "WithWaste")
 WithWasteDF <- st_set_geometry(WithWaste,NULL)
 
