@@ -79,13 +79,15 @@ londonaggSP <- as(Londonagg,"Spatial")
 
 window <- as.owin(londonaggSP)
 plot(window)
+plot(Wastepoint.ppp, add=T)
 Wastepoint.ppp <- ppp(x=WastepointBNG@coords[,1],y=WastepointBNG@coords[,2],window=window)
-K <- Kest(Wastepoint.ppp, correction="border")
+K <- Kest(Wastepoint.ppp, correction="border", rmax = 5000)
 plot(K)
+
 nni(WastepointBNG,win = "extent")
 Wastepoints <- data.frame(WastepointBNG@coords[,1:2])
 #now run the dbscan analysis
-db <- fpc::dbscan(Wastepoints, eps = 1500, MinPts = 3)
+db <- fpc::dbscan(Wastepoints, eps = 900,MinPts = 3)
 #now plot the results
 plot(db, Wastepoints, main = "DBSCAN Output", frame = F)
 plot(londonaggSP, add=T)
@@ -100,6 +102,7 @@ db
 res <- poly.counts(WastepointBNG, LondonWardsBNG)
 LondonWardsBNG@data$WastepointCount<-res
 LondonWardsBNG@data$WasteDensity <- LondonWardsBNG$WastepointCount/poly.areas(LondonWardsBNG)*1000000
+summary(LondonWardsBNG@data$WasteDensity)
 tm_shape(LondonWardsBNG) +
   tm_polygons("WasteDensity",
               style="cont",

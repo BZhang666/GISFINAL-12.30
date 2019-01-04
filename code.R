@@ -11,7 +11,7 @@ QCountTable
 
 K <- Kest(WastepointSub.ppp)
 plot(K)
-
+summary (poly.areas(LondonWardsBNG))
 WardsOUTSP <- as(WardsOUT,"Spatial")
 coordsW <- coordinates(WardsOUTSP)
 plot(WardsOUTSP)
